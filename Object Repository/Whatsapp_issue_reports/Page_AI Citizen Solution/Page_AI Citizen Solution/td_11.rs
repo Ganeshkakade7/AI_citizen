@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_11</name>
+   <tag></tag>
+   <elementGuidId>58b50384-82aa-4f1c-978d-100604fec34d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/table/tbody/tr[3]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;11&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bc31ea36-3718-41ce-8d0d-3ffa467b3018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-black px-6 py-3 text-bold whitespace-nowrap cursor-pointer underline</value>
+      <webElementGuid>e68a2c0e-ef7b-4609-96c7-64b62ef4eb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>f204a477-e464-4e07-8aa3-160d67c52523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;overflow-x-auto flex-1 border border-gray-300 rounded-[5px] shadow-md pb-4 mb-16 md:pb-4 md:mb-2&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-200&quot;]/tr[@class=&quot;hover:bg-gray-100 cursor-pointer&quot;]/td[@class=&quot;text-black px-6 py-3 text-bold whitespace-nowrap cursor-pointer underline&quot;]</value>
+      <webElementGuid>12978b59-2304-4d43-95b9-f92bbfd332b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/table/tbody/tr[3]/td[6]</value>
+      <webElementGuid>127b6d69-1a9d-4749-9f8b-8dd38d9849c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pandharpur'])[1]/following::td[4]</value>
+      <webElementGuid>cb0a475b-5b5d-405b-8be7-5329312f2ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohol'])[1]/following::td[10]</value>
+      <webElementGuid>7277f67c-3f28-43d1-9c15-c7bada959cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South solapur'])[1]/preceding::td[2]</value>
+      <webElementGuid>5d8307e2-828b-464d-8f0b-2780b4d86c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='North solapur'])[1]/preceding::td[8]</value>
+      <webElementGuid>0fc9b91e-ea3c-4c72-84ca-d1a63cf26199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]</value>
+      <webElementGuid>c844a498-de70-40b4-a3f2-435434326e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '11' or . = '11')]</value>
+      <webElementGuid>a1a9e70b-a1b9-415e-8fe2-f60dc4f098a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

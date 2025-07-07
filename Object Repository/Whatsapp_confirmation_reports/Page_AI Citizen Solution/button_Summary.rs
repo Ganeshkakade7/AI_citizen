@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Summary</name>
+   <tag></tag>
+   <elementGuidId>a356775f-e51c-425e-a199-469acbe4ffbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Summary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97eed013-97be-4201-a206-6a6bf1d08a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10</value>
+      <webElementGuid>55ba9b8f-9f7a-427f-84d2-7af93d552c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>dd46d4d9-e335-403c-81b2-a6e851d27f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 max-w-full overflow-x-auto&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-30&quot;]/div[@class=&quot;bg-white rounded-[4px] overflow-hidden shadow-lg w-full mx-4 max-w-lg border border-gray-300&quot;]/div[@class=&quot;flex justify-between items-center sticky top-0 bg-white p-4 z-20 shadow-sm border-b border-gray-200 rounded-t-[4px]&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10&quot;]</value>
+      <webElementGuid>c9f0023c-82af-46a2-a28f-0ff157348b22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div/button</value>
+      <webElementGuid>6e9c8f5e-b4ca-4a34-92c9-97e5168fa8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversation History'])[1]/following::button[1]</value>
+      <webElementGuid>6eed59f6-9dc6-49a5-bde3-ef97362f9fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>d9dfb3fc-525c-4e41-b302-f3d409f901b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[1]/preceding::button[2]</value>
+      <webElementGuid>65535f22-5e56-45e1-b595-458c3f9a39b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='नमस्कार! आम्ही सोलापूर जिल्हाधिकारी कार्यालयातून संपर्क साधत आहोत. आपण घेरडी गावातून आहात का?'])[1]/preceding::button[2]</value>
+      <webElementGuid>a1f073a6-70ac-455c-9b14-6a2c340fb07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button</value>
+      <webElementGuid>63298ed5-5503-42d7-9f3d-e7df795ad34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Summary' or . = 'Summary')]</value>
+      <webElementGuid>03c6bd36-826b-4280-b0b4-c78064b44a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

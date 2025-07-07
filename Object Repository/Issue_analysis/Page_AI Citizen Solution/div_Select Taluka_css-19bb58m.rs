@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Taluka_css-19bb58m</name>
+   <tag></tag>
+   <elementGuidId>ade9c5ea-4831-41d6-9a98-6ecb5be92dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-19bb58m</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='taluka']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-19bb58m >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8003cad-bd4a-4ee4-a2de-74465a0a443e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19bb58m</value>
+      <webElementGuid>9a02816e-eca0-4cc6-b067-2446522aa478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 space-y-6&quot;]/div[@class=&quot;flex flex-col gap-4 mt-2&quot;]/div[@class=&quot;flex gap-4&quot;]/div[2]/div[@class=&quot;filter-container&quot;]/div[@class=&quot;drawer open&quot;]/div[@class=&quot;filter-section&quot;]/div[@id=&quot;taluka&quot;]/div[@class=&quot;css-1nsts5h-control&quot;]/div[@class=&quot;css-ftr8bl&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>4ef2b752-d328-4ca9-9ab4-69eceaa26cf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taluka']/div/div/div[2]</value>
+      <webElementGuid>36b7fa4b-29b2-4962-b8d8-72a9fa808756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Taluka'])[1]/following::div[1]</value>
+      <webElementGuid>0db920c7-9612-4a3f-99b8-cd0f92d0be32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taluka:'])[1]/following::div[5]</value>
+      <webElementGuid>91e5e30e-8111-4c8f-bdb1-4c26380b57d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/preceding::div[3]</value>
+      <webElementGuid>8ab4cbab-7774-443b-9306-1af887144c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barshi'])[1]/preceding::div[4]</value>
+      <webElementGuid>b8e91ef0-549f-4cdc-bb8f-754792a9f120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]</value>
+      <webElementGuid>9ae6d1d2-f118-432e-a0ca-ff3b767baafc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

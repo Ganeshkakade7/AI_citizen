@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Barshi_1</name>
+   <tag></tag>
+   <elementGuidId>cf5d6a97-b9b1-4b85-8b7c-8c0362b665bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1b9hf2q</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='taluka']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Barshi$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f401f0d0-e81f-4e65-a78c-0d5b85e35a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1b9hf2q</value>
+      <webElementGuid>eaa22232-9391-480d-a3f9-40f09f58fa5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Barshi</value>
+      <webElementGuid>011027b6-6fdc-4c31-800a-b54a7fbf139f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-4 mt-2&quot;]/div[@class=&quot;flex&quot;]/div[2]/div[@class=&quot;filter-container&quot;]/div[@class=&quot;drawer open&quot;]/div[@class=&quot;filter-section&quot;]/div[@id=&quot;taluka&quot;]/div[@class=&quot;css-1nsts5h-control&quot;]/div[@class=&quot;css-1b9hf2q&quot;]</value>
+      <webElementGuid>83ec8771-9d28-49ca-b355-23098ac7c705</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taluka']/div/div</value>
+      <webElementGuid>cc58e101-702d-48a3-a172-7201256ab671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='option Barshi, selected.'])[1]/following::div[2]</value>
+      <webElementGuid>f8606525-d77c-4969-b9eb-a69042e3c28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taluka:'])[1]/following::div[3]</value>
+      <webElementGuid>c23a6359-9ed5-4289-97aa-95d5bedfee32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/preceding::div[8]</value>
+      <webElementGuid>c90b94af-3076-4367-9084-7d2e4ceb127f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>3cc38592-859f-4775-a0cc-56d7a123b228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Barshi' or . = 'Barshi')]</value>
+      <webElementGuid>0e1a0798-bddd-44b4-8dea-332fb038ab71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Mangalwedha</name>
+   <tag></tag>
+   <elementGuidId>d3977d8b-b94f-4dc1-9c97-8c26030ac354</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor was not available.'])[2]/preceding::td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Mangalwedha&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e7ef80f5-8fab-4c1e-a8d4-c4d8c5e69437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 whitespace-nowrap text-sm font-medium align-top 
+                                                    text-blue-600 cursor-pointer hover:underline</value>
+      <webElementGuid>f2188b5f-5c82-40dd-9408-bb8c00b07ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>0d4b1a06-ccc7-4daa-950f-e143981638d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mangalwedha</value>
+      <webElementGuid>d1fe3a5e-a4a9-49a0-8f0f-ba5738bafe46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-4 mt-2&quot;]/div[@class=&quot;border border-gray-300 rounded-[5px] p-4 mt-4 shadow-sm&quot;]/div[@class=&quot;overflow-x-auto mt-4&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200 border border-gray-300&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-200&quot;]/tr[@class=&quot;hover:bg-gray-50&quot;]/td[@class=&quot;px-4 py-2 whitespace-nowrap text-sm font-medium align-top 
+                                                    text-blue-600 cursor-pointer hover:underline&quot;]</value>
+      <webElementGuid>d121b717-e0a2-44b0-b15d-8c4dcdbc9ad3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>2131b7c3-26dc-4acb-bdb2-9ec459363d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Count'])[1]/following::td[1]</value>
+      <webElementGuid>85c3d3d5-5330-4f6e-95ce-072a89db1e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pos. Count'])[1]/following::td[1]</value>
+      <webElementGuid>9309da6c-fe13-491b-bd4d-22137c913ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Very Poor'])[2]/preceding::td[1]</value>
+      <webElementGuid>28b4b218-046f-49f2-80e4-7f1bc9d08dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor was not available.'])[2]/preceding::td[2]</value>
+      <webElementGuid>e5041384-2d82-4971-ba26-19bbb9109568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mangalwedha']/parent::*</value>
+      <webElementGuid>8cdbd16f-adfd-4d4b-863b-a51ecd920c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>3b07f718-bb78-40ae-a1d8-965eb85dfaa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Mangalwedha' or . = 'Mangalwedha')]</value>
+      <webElementGuid>f25d79bb-1d40-402d-8582-89b760cd5c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

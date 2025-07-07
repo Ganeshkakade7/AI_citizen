@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Whatsapp_issue_reports_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc7e4db4-3a12-484a-bd88-6a4c80aef5c8</testCaseGuid>
+</TestCaseEntity>

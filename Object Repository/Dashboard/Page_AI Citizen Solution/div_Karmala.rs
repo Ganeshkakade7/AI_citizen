@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Karmala</name>
+   <tag></tag>
+   <elementGuidId>35a9946d-5326-4d3d-ac7e-a62139af9e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Karmala$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14f9e763-2fb8-44bf-a7aa-1c870ce6254a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 flex items-center justify-between cursor-pointer</value>
+      <webElementGuid>714831c8-90ba-401d-94aa-4bb041f48843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Karmala</value>
+      <webElementGuid>2e2a0f02-15de-4fd1-a58b-9a48a2f6dd1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-2 space-y-6 mt-2&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-6&quot;]/div[@class=&quot;md:col-span-1 space-y-2 border border-gray-400 p-4 rounded-[5px] h-[300px] overflow-y-auto relative&quot;]/div[@class=&quot;bg-white rounded-[5px] border border-gray-300&quot;]/div[@class=&quot;p-4 flex items-center justify-between cursor-pointer&quot;]</value>
+      <webElementGuid>f19444c1-ffab-4801-afe2-1ff3207c6f6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div[2]/div</value>
+      <webElementGuid>82074181-23fe-4260-8ca1-7f98f7cb7fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medicine availability is not confirmed.'])[2]/following::div[2]</value>
+      <webElementGuid>8976d378-1728-4dc6-9be0-3cfdfe020352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medicine Availability'])[1]/following::div[2]</value>
+      <webElementGuid>16e2c105-bbaa-4e39-ac0f-bd7bbb4ccaca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madha'])[3]/preceding::div[2]</value>
+      <webElementGuid>e17860ed-11bc-4c18-b1a3-aa65ac17e6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div</value>
+      <webElementGuid>778fd2ac-2822-4a16-be90-dda7568673e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Karmala' or . = 'Karmala')]</value>
+      <webElementGuid>4c08df76-e577-48c9-9817-926eec772054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

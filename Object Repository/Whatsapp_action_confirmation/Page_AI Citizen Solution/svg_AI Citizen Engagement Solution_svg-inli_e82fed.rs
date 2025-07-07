@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_AI Citizen Engagement Solution_svg-inli_e82fed</name>
+   <tag></tag>
+   <elementGuidId>10cd2d40-34d8-4bf8-8dad-1f5b6e24bb8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-table.fa-20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li:nth-child(6) > .flex > .md\:mr-0 > .svg-inline--fa</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c9565722-de93-453a-8675-b07f04efc1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ff5b0e57-a9d7-4c78-a722-de3249662ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1513ec34-8ef6-4a09-a7e1-2de19c363bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>5616f2c4-fb66-4488-bf99-e269db5f01bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>8bbfb910-211d-476d-aa3e-9e353be543aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-table fa-20 </value>
+      <webElementGuid>1004b1ae-7786-4362-930d-4b5efb66144b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5340f385-c12c-4e30-9d4c-675768f72110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a1bf1081-006c-40c8-a391-dd632f45ec0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>05805d12-d0aa-4616-a6c0-f78306ff85d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;transition-all duration-200 ease-linear
+            md:relative absolute z-20 overflow-hidden
+            md:w-[80px] md:min-w-[80px] w-0&quot;]/div[@class=&quot;flex justify-center bg-primary&quot;]/div[@class=&quot;min-h-screen flex justify-left overflow-auto&quot;]/div[1]/nav[1]/ul[@class=&quot;flex flex-col md:h-5 p-0 md:px-0 px-2 h-0 items-center gap-2 md:gap-0 mt-4&quot;]/li[@class=&quot;cursor-pointer text-secondary flex flex-col justify-center items-start p-2 w-max&quot;]/div[@class=&quot;flex items-center justify-center w-full p-2 rounded-lg hover:text-white text-secondary&quot;]/div[@class=&quot;md:mr-0 mr-0 px-0&quot;]/svg[@class=&quot;svg-inline--fa fa-table fa-20&quot;]</value>
+      <webElementGuid>7132266e-76dc-47a6-8c63-c6ecde227cd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][5]</value>
+      <webElementGuid>b9e323b9-8089-4a7e-b11e-86bfc4b5c4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/preceding::*[name()='svg'][6]</value>
+      <webElementGuid>3df437bb-8bc0-4dc0-bdd8-47edb647a719</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Whatsapp_confirmation_report_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64b02ce5-f3bb-406e-abf1-6ccd9bcc2667</testCaseGuid>
+</TestCaseEntity>

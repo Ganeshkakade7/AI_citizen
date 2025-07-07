@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Summary</name>
+   <tag></tag>
+   <elementGuidId>01d9e732-41c3-401c-a816-872d32a7a016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Summary&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8593934e-e4cf-41a4-94ab-bde00e318f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10</value>
+      <webElementGuid>ee1b7ff4-5073-4400-8438-b5d772f52c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Summary</value>
+      <webElementGuid>b98986f1-6d47-4204-a071-5b8154e7d18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 max-w-full mx-auto&quot;]/div[@class=&quot;overflow-x-auto mt-6&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-30&quot;]/div[@class=&quot;bg-white rounded-[4px] overflow-hidden shadow-lg w-full mx-4 max-w-lg border border-gray-300&quot;]/div[@class=&quot;flex justify-between items-center sticky top-0 bg-white p-4 z-20 shadow-sm border-b border-gray-200 rounded-t-[4px]&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10&quot;]</value>
+      <webElementGuid>7e44a31d-f295-4e04-a748-304660ec21f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>46db1638-eb7a-49ce-ba8c-af6b38c0cbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversation History'])[1]/following::button[1]</value>
+      <webElementGuid>48db4dc9-020b-47ea-a949-3880c8eca178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[113]/following::button[1]</value>
+      <webElementGuid>523fb2e3-a04e-40af-9bdf-b6c34a05467d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[1]/preceding::button[2]</value>
+      <webElementGuid>d1341476-07fe-4f12-9d94-fe431793bb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[2]/preceding::button[2]</value>
+      <webElementGuid>b7fc4228-5dbc-4283-837c-d606b780b3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>93ea3090-89d1-4d2b-afd2-dc64c0d978b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Summary' or . = 'Summary')]</value>
+      <webElementGuid>c5a4121f-d09f-427b-84c6-1666156bc3a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

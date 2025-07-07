@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Call_attempt_report_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>498ab56c-3637-4c29-97d3-c6f9a44d4c75</testCaseGuid>
+</TestCaseEntity>

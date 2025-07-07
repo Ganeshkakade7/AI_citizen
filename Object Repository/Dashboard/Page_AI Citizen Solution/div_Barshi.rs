@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Barshi</name>
+   <tag></tag>
+   <elementGuidId>1208f8f0-61be-4b98-b793-f16da49ee8b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-4.flex.items-center.justify-between.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Barshi$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57e673df-cd42-4062-9cd6-5726dcfd592a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 flex items-center justify-between cursor-pointer</value>
+      <webElementGuid>0f01faf5-8ecf-4ed5-9040-a0ea60879781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Barshi</value>
+      <webElementGuid>80b39a2a-cff3-41eb-ad01-7c60629d1213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-2 space-y-6 mt-2&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-6&quot;]/div[@class=&quot;md:col-span-1 space-y-2 border border-gray-400 p-4 rounded-[5px] h-[300px] overflow-y-auto relative&quot;]/div[@class=&quot;bg-white rounded-[5px] border border-gray-300&quot;]/div[@class=&quot;p-4 flex items-center justify-between cursor-pointer&quot;]</value>
+      <webElementGuid>b69a9a17-a06a-4319-9b12-897678c5cfd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div/div</value>
+      <webElementGuid>3f064e89-8cd6-45c9-aa87-57daa5149563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talukawise top 3 critical issues'])[1]/following::div[2]</value>
+      <webElementGuid>585fd51f-6f14-4c1b-8d88-f086d6dcd98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Villages'])[1]/following::div[13]</value>
+      <webElementGuid>305b050e-6385-4bef-8ad5-fe0cc6a83d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karmala'])[1]/preceding::div[2]</value>
+      <webElementGuid>2702517e-d1c8-4abb-b067-6fe5ec9e3d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>92bca6ec-5603-42ee-af26-a804ac1fc13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Barshi' or . = 'Barshi')]</value>
+      <webElementGuid>be3ef9cf-9daa-4ea2-afdf-2a3c10449579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

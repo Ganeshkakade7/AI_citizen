@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Rahul Balu Madane_bg-primary hoverbg_0bbdf8</name>
+   <tag></tag>
+   <elementGuidId>3ab95011-b20c-4fc7-abd8-1e3bafc173cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Call&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2ddf3c8f-e561-4edd-91fc-d01c854fc6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary hover:bg-primary/90 transition-colors text-white p-1.5 rounded-full flex items-center justify-center h-7 w-7 shadow-sm</value>
+      <webElementGuid>5e9f262d-e8ae-408c-b4b5-b4562e3d8249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Call</value>
+      <webElementGuid>07ea5170-4f1b-4235-b0d7-c004a1dc3b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 mb-12 md:mb-2&quot;]/div[@class=&quot;w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6&quot;]/div[@class=&quot;relative z-10 bg-white p-5 rounded-[5px] shadow-md border 
+                    border-gray-300 flex flex-col cursor-pointer transition-all duration-200&quot;]/div[@class=&quot;border-b border-gray-200 pb-2&quot;]/div[@class=&quot;flex lg:flex-row flex-col-reverse justify-between items-center&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[@class=&quot;relative group&quot;]/button[@class=&quot;bg-primary hover:bg-primary/90 transition-colors text-white p-1.5 rounded-full flex items-center justify-center h-7 w-7 shadow-sm&quot;]</value>
+      <webElementGuid>283bb032-2400-4e90-aa63-dcc2a6d68255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>55213556-4b38-406c-9978-9ac4e79de3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rahul Balu Madane'])[1]/following::button[2]</value>
+      <webElementGuid>bf0456e8-1017-47bb-bc66-0c431cbbe299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table'])[1]/following::button[2]</value>
+      <webElementGuid>a2356b38-692d-41f4-a9d5-118ff3a28ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Citizen'])[1]/preceding::button[1]</value>
+      <webElementGuid>c1cc43e7-9e74-4547-8750-34978cbbbe2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View History'])[1]/preceding::button[2]</value>
+      <webElementGuid>2f455692-850c-42c8-956c-8d5d28c7ebf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>a3d23415-18e7-45c9-9719-3f0001b2f0b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

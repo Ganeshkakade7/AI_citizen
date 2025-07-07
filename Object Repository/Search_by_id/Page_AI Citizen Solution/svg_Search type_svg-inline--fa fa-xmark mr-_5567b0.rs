@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Search type_svg-inline--fa fa-xmark mr-_5567b0</name>
+   <tag></tag>
+   <elementGuidId>824243ad-4dbc-41a8-abf0-27775b614741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Search typeIssue IDCitizen ID$/ >> div svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>fe145a1d-4e10-454c-a327-9735edf67d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2818cee4-1253-4e45-82a8-c044d1a77f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>39f8e0d9-5715-4d46-8c48-447834d70963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>fas</value>
+      <webElementGuid>c5be54d1-6322-45c0-8c7a-5e36c46b59b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>xmark</value>
+      <webElementGuid>075e7aa2-3ed7-4670-8df4-3dd5f30ad90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-xmark mr-2 text-gray-300 hover:text-black cursor-pointer</value>
+      <webElementGuid>bac6f134-410f-479a-8f78-ec829be9b725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ab718947-f431-4ca8-88c2-084d807ef8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>7895ba43-0f8d-4321-aa78-ac194c86e430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 384 512</value>
+      <webElementGuid>46e80055-1e74-417a-8869-23a6a6566b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/nav[@class=&quot;navbar border-b border-gray-700 flex items-center justify-between flex-nowrap h-[60px] px-2 sm:px-4 relative&quot;]/form[@class=&quot;w-full flex justify-center items-center relative&quot;]/div[@class=&quot;hidden md:flex rounded-lg border border-gray-300 overflow-hidden&quot;]/div[@class=&quot;flex items-center&quot;]/svg[@class=&quot;svg-inline--fa fa-xmark mr-2 text-gray-300 hover:text-black cursor-pointer&quot;]</value>
+      <webElementGuid>edbd1da7-a5a1-4497-bdb6-456dac3da52a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>38e035c9-0c13-46e3-8bcb-e9fdfc145fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>a8928b28-27b9-4a11-8d92-8e534ec7c62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Refreshed:'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f95e11ee-673b-4636-b73f-068679a02653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>1df8bc83-b142-44e1-b679-c71454c65050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

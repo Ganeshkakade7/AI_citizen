@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Logout (1)</name>
+   <tag></tag>
+   <elementGuidId>f3b31d94-df49-4c98-bf83-c9fdd2037401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Logout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d05a2bc5-f29f-40dc-82f1-872c45a43fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center space-x-1 py-2 px-3 border border-red-200 hover:border-red-300 text-red-600 hover:bg-red-50 rounded-md transition-colors text-sm font-medium</value>
+      <webElementGuid>bbd914e8-9665-4e73-9cb9-f8fc4a95cdfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>f9a799d1-2c0c-4533-82f1-d1b059d0cfce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>69367e90-9bca-444e-af09-ed4bc451bde9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/nav[@class=&quot;navbar border-b border-gray-700 flex items-center justify-between flex-nowrap h-[60px] px-2 sm:px-4 relative&quot;]/div[@class=&quot;hidden md:flex items-center ml-2 sm:ml-4&quot;]/button[@class=&quot;flex items-center space-x-1 py-2 px-3 border border-red-200 hover:border-red-300 text-red-600 hover:bg-red-50 rounded-md transition-colors text-sm font-medium&quot;]</value>
+      <webElementGuid>f1ae71f9-d382-418a-967d-8f66e2e9969c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/nav/div[3]/button</value>
+      <webElementGuid>b41b85c5-c0ac-41ff-bd8c-631035fed564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Refreshed:'])[1]/following::button[1]</value>
+      <webElementGuid>71c00362-1527-45f6-a7d9-42453087b911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/following::button[2]</value>
+      <webElementGuid>849a31a5-0d7d-4dbd-931d-db4ed4dbc7ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department:'])[1]/preceding::button[1]</value>
+      <webElementGuid>d42e3dcc-ef45-4593-8828-f79bb802034c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>1b406ce8-36cf-45ac-a9ff-b0a74fc0e07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>e7ff5317-5416-410b-bdf7-062f879074b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

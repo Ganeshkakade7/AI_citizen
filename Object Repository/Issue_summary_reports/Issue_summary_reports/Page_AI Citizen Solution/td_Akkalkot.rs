@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Akkalkot</name>
+   <tag></tag>
+   <elementGuidId>b9640bf0-95b0-45cb-843e-014aa128a1df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Akkalkot&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>62df2184-f7e0-43b1-ae72-afe177647c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 whitespace-nowrap text-sm font-medium text-blue-600 cursor-pointer hover:underline</value>
+      <webElementGuid>1f3ad481-4366-498f-ac50-e6af65c7f99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akkalkot</value>
+      <webElementGuid>effbf8de-bdb5-4788-be3a-764e8dc349cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-4 mt-2&quot;]/div[@class=&quot;border border-gray-300 rounded-[5px] p-4 mt-4 shadow-sm&quot;]/div[@class=&quot;overflow-x-auto mt-4&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200 border border-gray-300&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-200&quot;]/tr[@class=&quot;hover:bg-gray-50&quot;]/td[@class=&quot;px-4 py-2 whitespace-nowrap text-sm font-medium text-blue-600 cursor-pointer hover:underline&quot;]</value>
+      <webElementGuid>9e85dbec-3b99-4a14-a36b-99d6110a9dfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>3ea9063b-4e06-4c8a-ad05-95f4dac1159f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Count'])[1]/following::td[1]</value>
+      <webElementGuid>4e42d9d0-6ce6-415c-8c04-a23137fa1a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pos. Count'])[1]/following::td[1]</value>
+      <webElementGuid>5cd190e2-4639-4164-a720-a0e94a410b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satisfactory'])[1]/preceding::td[6]</value>
+      <webElementGuid>a2feff5c-8fed-4a40-bf9f-62a4d6409673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medicine Availability'])[2]/preceding::td[7]</value>
+      <webElementGuid>6079db98-55d7-4647-8db6-34ca01b80b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akkalkot']/parent::*</value>
+      <webElementGuid>a23895c3-d447-476f-8a00-278d9ec74ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>ed137d62-9b4e-4284-a147-b6d3323f7b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Akkalkot' or . = 'Akkalkot')]</value>
+      <webElementGuid>87630431-a974-4c17-beb6-1a3a1824cf9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

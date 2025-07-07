@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Taluka</name>
+   <tag></tag>
+   <elementGuidId>e8c32901-b614-4814-8c50-99a9745d3bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-ftr8bl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='taluka']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select Taluka$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3295ed5-0381-42d3-b1cc-2d3118a32f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ftr8bl</value>
+      <webElementGuid>8daf30cd-26f9-432b-8b0c-81b705bb002a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Taluka</value>
+      <webElementGuid>270c50fa-b5e7-4803-8af9-042ed1837110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;mt-2 mb-4 pb-8&quot;]/div[@class=&quot;relative flex items-center justify-between pb-4&quot;]/div[@class=&quot;filter-container&quot;]/div[@class=&quot;drawer open&quot;]/div[@class=&quot;filter-section&quot;]/div[@id=&quot;taluka&quot;]/div[@class=&quot;css-1nsts5h-control&quot;]/div[@class=&quot;css-ftr8bl&quot;]</value>
+      <webElementGuid>63c57d01-35da-4c5a-8d91-101c962a6146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taluka']/div/div</value>
+      <webElementGuid>9f7ea07d-da76-488e-abd4-b15df2e96ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taluka:'])[1]/following::div[3]</value>
+      <webElementGuid>b6c3e48d-a23c-4535-aa36-401018413778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Date:'])[1]/following::div[5]</value>
+      <webElementGuid>bd585fc5-af4d-49be-8aca-3ff8f817eb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/preceding::div[5]</value>
+      <webElementGuid>0004dadf-a3bb-4628-b40f-38e515186094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>132cc09a-2676-4e82-9b98-c9de37a54091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Taluka' or . = 'Select Taluka')]</value>
+      <webElementGuid>6ff8d777-0bab-45ea-a2e1-7e4a18b5fbeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

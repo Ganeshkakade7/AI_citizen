@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>6b72ccad-bddc-48ce-bc02-3d889164c938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li:nth-child(3) > .flex > .md\:mr-0 > svg</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>921ffae9-fe78-456f-9b85-5d3fb38594f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>1d9beb5d-2c48-43ee-b33e-8b0645d855d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>9a767fe5-6609-4aca-90d8-2ca2e0d2c520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>8b3e667f-cfba-4398-b2f6-d810a753343b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>1d297a54-d223-4115-b3b2-76b570a5ebca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>32c5f773-2fae-4785-82a3-357bcf558aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>3c4668ce-c310-4186-8a99-f387947ab9e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0cb5c42d-7d2f-42b6-8416-4a0a56b5b91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;transition-all duration-200 ease-linear
+            md:relative absolute z-20 overflow-hidden
+            md:w-[80px] md:min-w-[80px] w-0&quot;]/div[@class=&quot;flex justify-center bg-primary&quot;]/div[@class=&quot;min-h-screen flex justify-left overflow-auto&quot;]/div[1]/nav[1]/ul[@class=&quot;flex flex-col md:h-5 p-0 md:px-0 px-2 h-0 items-center gap-2 md:gap-0 mt-4&quot;]/li[@class=&quot;cursor-pointer text-secondary flex flex-col justify-center items-start p-2 w-max&quot;]/div[@class=&quot;flex items-center justify-center w-full p-2 rounded-lg hover:text-white text-secondary&quot;]/div[@class=&quot;md:mr-0 mr-0 px-0&quot;]/svg[1]</value>
+      <webElementGuid>b6e93c71-1540-44d3-aa75-899d99c7ad07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>91c6ced8-3ce3-4791-bbb3-372aac45155b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>8aa05f3e-2b7e-44c9-a6b7-53aa395643f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][8]</value>
+      <webElementGuid>e8935990-eaa4-4466-abdc-37c1f9101bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/preceding::*[name()='svg'][9]</value>
+      <webElementGuid>359df527-fe77-4436-a32b-36b001d18199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign:'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>cbc68811-b6c8-48b0-973e-d5bf99cd2539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department:'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>153a1f6f-86b2-4ea4-a604-1cd7c0a19bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Date:'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>5e8f5bbe-009d-4dbf-810c-c74024747e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Date:'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2ecf3aa3-ab94-4fa8-80ac-dbcab46c93fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

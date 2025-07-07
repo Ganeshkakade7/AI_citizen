@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Aljapur_px-2 py-1 m-auto rounded-ful_f450a4</name>
+   <tag></tag>
+   <elementGuidId>17906a9c-fb38-48cc-a7f5-8dd3c6cf7909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.w-full > .px-2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93197ad5-fa70-4948-8d39-4eae4166d904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 py-1 m-auto rounded-full text-white bg-primary hover:bg--700</value>
+      <webElementGuid>bd4c037f-4578-479c-a229-b0d12555b8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-20&quot;]/div[@class=&quot;bg-white p-6 rounded-xl max-w-lg w-full shadow-lg h-max relative&quot;]/div[@class=&quot;p-4 space-y-4&quot;]/div[@class=&quot;w-full flex justify-center&quot;]/button[@class=&quot;px-2 py-1 m-auto rounded-full text-white bg-primary hover:bg--700&quot;]</value>
+      <webElementGuid>f839748b-62b8-4623-af20-1ca0a5e51a53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>1711fb62-3088-4163-bcb1-9a7342b32ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aljapur'])[1]/following::button[1]</value>
+      <webElementGuid>39d7e694-6db6-4b9d-a009-d1dd59f4998f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Village:'])[1]/following::button[1]</value>
+      <webElementGuid>0abf2d25-bc4e-4c56-83cb-d376d79cc02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>7953c4a8-c3e9-4428-ab51-5e32c3fa1fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>600fed5d-aec4-4440-8010-dd248ad78bd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

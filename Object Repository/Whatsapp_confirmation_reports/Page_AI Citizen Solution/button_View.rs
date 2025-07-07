@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View</name>
+   <tag></tag>
+   <elementGuidId>724c4440-0f4b-452c-a604-f0cbcb431fc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div[2]/table/tbody/tr/td[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1 View 53293 47246 Open RINESH AMAR GEJAGE 9970183083 Anganwadi WhatsApp The citizen confirmed they are from Gheradi villag... Positive 6/24/2025, 8:02:35 AM Yes Gheradi Gheradi Gheradi ho&quot;i] >> internal:attr=[title=&quot;View full conversation in WhatsApp format&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a46b9eb3-5d0b-488d-b1e5-154cc501351b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 py-1 bg-primary text-white rounded hover:bg-primary-dark flex items-center text-xs transition</value>
+      <webElementGuid>10a34949-e546-4f31-beb4-5683a7091ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View full conversation in WhatsApp format</value>
+      <webElementGuid>a58ee483-0c4e-467d-b86c-450a81695289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View</value>
+      <webElementGuid>83cee21e-87ff-4e92-ba2f-c145bac0b229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 max-w-full overflow-x-auto&quot;]/div[@class=&quot;bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden mb-6&quot;]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full divide-y divide-gray-200 min-w-max&quot;]/tbody[@class=&quot;bg-white divide-y divide-gray-200&quot;]/tr[@class=&quot;hover:bg-gray-50&quot;]/td[@class=&quot;px-3 py-3 whitespace-nowrap text-sm sticky left-0 bg-white hover:bg-gray-50 z-10&quot;]/div[@class=&quot;flex gap-1&quot;]/button[@class=&quot;px-3 py-1 bg-primary text-white rounded hover:bg-primary-dark flex items-center text-xs transition&quot;]</value>
+      <webElementGuid>6b8b36ad-3484-4e32-9d6c-57ffd1d885b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div[2]/table/tbody/tr/td[2]/div/button</value>
+      <webElementGuid>6d5c3612-432d-4af5-8e03-48c157b62c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Village Confirmation'])[1]/following::button[1]</value>
+      <webElementGuid>d3d92e61-e554-402a-8c57-25db738bcc42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Village'])[2]/following::button[1]</value>
+      <webElementGuid>fc2620aa-a938-41ff-b66b-8336aa3dcfed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::button[1]</value>
+      <webElementGuid>e7bde8b6-4791-4852-8dd8-7ac25d4d368d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RINESH AMAR GEJAGE'])[1]/preceding::button[1]</value>
+      <webElementGuid>cba46a38-249e-4fc9-9774-1521eda29430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>a62bb160-34b9-40c0-8f1f-86544de74a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button</value>
+      <webElementGuid>e7fc36b0-e25c-4727-b829-a7b3436c2bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'View full conversation in WhatsApp format' and (text() = ' View' or . = ' View')]</value>
+      <webElementGuid>a05ce9eb-14d5-4cb2-855c-175513b6f48c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

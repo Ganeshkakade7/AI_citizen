@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Closed_bg-primary text-secondary rou_724fee</name>
+   <tag></tag>
+   <elementGuidId>6f01cca3-892a-4823-83f6-db8154236740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[5]/table/tbody/tr/td[13]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;665234 BALAKRUHSNA 9960757035 Jadhavwadi School Teacher Punctuality 34195 Closed 11-04-2025 - 20:15:04 ग्राहकांनी असे सांगितले की शिक्षक शाळेत वेळेवर येत नाहीत. All Headmasters and teachers have been strictly instructed to come to school on time and do their teaching work. 15-05-2025 - 13:16:47 Maruti Ligade&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>09bc5b0e-d114-4a09-a607-d09f6baba448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary text-secondary rounded px-3 py-1</value>
+      <webElementGuid>251b9790-7a17-4c62-8e82-376bd6b2a83c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;overflow-auto border rounded-lg&quot;]/table[@class=&quot;md:table-fixed table-auto text-center text-sm border-collapse w-full overflow-scroll h-full max-h-64&quot;]/tbody[1]/tr[@class=&quot;border-b hover:bg-gray-50&quot;]/td[@class=&quot;p-2 flex flex-row md:flex-row flex-wrap gap-2 justify-center items-center&quot;]/button[@class=&quot;bg-primary text-secondary rounded px-3 py-1&quot;]</value>
+      <webElementGuid>ae0ec68f-c803-4c6f-837b-7076ccfa4c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[5]/table/tbody/tr/td[13]/button[2]</value>
+      <webElementGuid>d82e40cd-958b-44d4-a6f2-bfad445dd2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/following::button[2]</value>
+      <webElementGuid>d466214f-5e5c-4697-a1f3-013c186c5f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School Teacher Punctuality'])[1]/following::button[2]</value>
+      <webElementGuid>0bce08ec-c901-4d1f-9f52-f9f957922a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>dfed0cd5-d61e-4f17-b3a1-dcd8283fc1d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

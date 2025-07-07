@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Download CSV</name>
+   <tag></tag>
+   <elementGuidId>de387440-25c8-4b89-b4fa-8448d96211f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Download CSV&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04b31d9f-d46a-4787-9183-b862a752cbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>download</name>
+      <type>Main</type>
+      <value>report_taluka_CMP-40_2025-06-24.csv</value>
+      <webElementGuid>5b68a2d7-38a6-4a70-8705-c7cc9ce1d830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary hover:bg-primary-dark text-white font-bold py-1 px-3 rounded text-sm inline-flex items-center transition-colors duration-150</value>
+      <webElementGuid>fa6f1059-b87c-421f-8736-f4a2bc61e40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>81b4f4fb-5555-4bbc-9a05-c75767dce551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>blob:https://citizenengagementsolution.markytics.com/524ed15a-8803-496f-9670-4a959b91e866</value>
+      <webElementGuid>d149f9cd-f181-4202-94d5-05c43500f4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download CSV</value>
+      <webElementGuid>5f851e08-e662-4fda-95c8-06b41f6081e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-4 mt-2&quot;]/div[@class=&quot;border border-gray-300 rounded-[5px] p-4 mt-4 shadow-sm&quot;]/div[@class=&quot;overflow-x-auto mt-4&quot;]/div[@class=&quot;mb-3 flex justify-end&quot;]/a[@class=&quot;bg-primary hover:bg-primary-dark text-white font-bold py-1 px-3 rounded text-sm inline-flex items-center transition-colors duration-150&quot;]</value>
+      <webElementGuid>683cf802-4f44-466f-b3bd-be324a36927b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>33e921f8-a5f6-4b0a-bfb1-4851963b3f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Download CSV')]</value>
+      <webElementGuid>12642a3b-13b3-4ca5-b6d5-98834d3298c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::a[1]</value>
+      <webElementGuid>317293fe-ec8e-44f2-a7dd-82bbd1c3985e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::a[1]</value>
+      <webElementGuid>96a7befe-4e4e-4ece-b0af-976a71fba4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful Calls'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc6efb99-55ce-404f-a3e2-849b182daa14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download CSV']/parent::*</value>
+      <webElementGuid>a00fd629-0dfc-4a16-8f91-7c641f0e2b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'blob:https://citizenengagementsolution.markytics.com/524ed15a-8803-496f-9670-4a959b91e866')]</value>
+      <webElementGuid>ab410cd3-4ea3-4625-ba49-a67d654c2004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>415b4881-bcad-4466-b286-8455b4266075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'blob:https://citizenengagementsolution.markytics.com/524ed15a-8803-496f-9670-4a959b91e866' and (text() = 'Download CSV' or . = 'Download CSV')]</value>
+      <webElementGuid>cc4f563d-576c-4495-a769-af6e6eb7d187</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

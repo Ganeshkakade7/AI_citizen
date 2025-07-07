@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_DailyWeeklyMonthly (1)</name>
+   <tag></tag>
+   <elementGuidId>ae52e4e8-1ece-4ce6-8a4d-cefa9d04293f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Daywise EngagementDailyWeeklyMonthly$/ >> internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>606f3276-9e95-4e15-b6b6-d7648a5c53c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-2 px-3 py-1 border border-gray-600 rounded-[5px] text-sm focus:outline-none focus:ring-1 focus:ring-primary</value>
+      <webElementGuid>8a1f07c0-b6f9-4e4a-8efe-a17fa7cecca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DailyWeeklyMonthly</value>
+      <webElementGuid>9aecad42-a351-4aee-b4f1-e9ff8f484a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-4 mt-2&quot;]/div[@class=&quot;mb-4 p-2 border border-gray-400 rounded-[5px]&quot;]/div[@class=&quot;flex justify-between items-center mb-4 md:ml-12&quot;]/select[@class=&quot;ml-2 px-3 py-1 border border-gray-600 rounded-[5px] text-sm focus:outline-none focus:ring-1 focus:ring-primary&quot;]</value>
+      <webElementGuid>e2ca1828-f9bb-411a-8bb6-9129405aed31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>edf74673-e6cb-4903-b27f-c0c834b4a567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daywise Engagement'])[1]/following::select[1]</value>
+      <webElementGuid>fd336da1-4ba5-4cc1-86b7-d4e9e0fc4f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::select[1]</value>
+      <webElementGuid>0be839d7-21ae-4b9b-9ca5-7318b476e140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>aa275994-4032-4423-a8b8-4472d0f03e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'DailyWeeklyMonthly' or . = 'DailyWeeklyMonthly')]</value>
+      <webElementGuid>84a939bb-ba46-466a-9ed6-5c2a33d39b8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View</name>
+   <tag></tag>
+   <elementGuidId>7fd1ffbe-15c1-4b38-9966-308cb96d7cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/table/tbody/tr/td[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;59060 South Solapur Healthcare service availability and quality The customer reports that doctors are not readily available at the government hospital, especially after admission. They also claim that the quality of care depends on the patient's position or status, and that they had to purchase medicines from outside as they were not provided at the hospital. The customer says they were not given any advice and had to go on their own. Yes Yes The conversation starts with the Solapur Collector Office informing the citizen about the resolution of their earlier complaint regarding doctor unavailability. Initially, the citizen replies with 'Ho' and 'Bola', but later mentions they haven't gone to the doctor yet. The bot then rephrases and asks if the issue is resolved, to which the citizen replies positively, stating the issue is resolved. View&quot;i] >> internal:attr=[title=&quot;View full conversation in WhatsApp format&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>76594113-02eb-4933-b7f2-357ce9f134b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-3 py-1 bg-primary text-white rounded hover:bg-primary-dark flex items-center text-xs transition</value>
+      <webElementGuid>f9d3e883-3db3-4dba-ad73-c5e9ec6c6dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View full conversation in WhatsApp format</value>
+      <webElementGuid>26b61658-0561-4f44-9630-8922bcf4ea45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View</value>
+      <webElementGuid>c56e2dfe-0b56-4b47-9f87-e22fdc6ad0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 max-w-full mx-auto&quot;]/div[@class=&quot;overflow-x-auto mt-6&quot;]/table[@class=&quot;min-w-full border text-sm&quot;]/tbody[1]/tr[1]/td[@class=&quot;border px-2 py-1 whitespace-pre-line&quot;]/button[@class=&quot;px-3 py-1 bg-primary text-white rounded hover:bg-primary-dark flex items-center text-xs transition&quot;]</value>
+      <webElementGuid>c10ab725-605c-48d8-a75e-dd4bc5234051</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/table/tbody/tr/td[7]/button</value>
+      <webElementGuid>e8994e5e-0cb2-4a02-929d-43ce3e51f082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::button[1]</value>
+      <webElementGuid>e71cb3cf-5c30-4bd6-bdde-1cf2f4091758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::button[1]</value>
+      <webElementGuid>31ff49eb-fbe4-4891-9411-ca3e29a3c878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South Solapur'])[2]/preceding::button[1]</value>
+      <webElementGuid>0c50f6d3-fb9a-40fa-9afd-8045443695c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Service Availability'])[1]/preceding::button[1]</value>
+      <webElementGuid>f1c493d0-ee22-437d-abec-5c1f1b419404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View']/parent::*</value>
+      <webElementGuid>44f2f235-ced5-429f-bd61-638b08cd754f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button</value>
+      <webElementGuid>27f5916b-08a5-4d48-9656-684c668fd20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'View full conversation in WhatsApp format' and (text() = ' View' or . = ' View')]</value>
+      <webElementGuid>eae6017a-8bc9-43af-96a6-b04f6cd38f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

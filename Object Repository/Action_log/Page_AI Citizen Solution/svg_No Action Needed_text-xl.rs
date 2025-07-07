@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_No Action Needed_text-xl</name>
+   <tag></tag>
+   <elementGuidId>0d0d1d5a-9bfe-4333-b784-37ba1b214b57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Visit'])[2]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;2025/06/27/00024 आज दिनांक १८/०६/२०२५... No Action Needed Physical Visit Jayawant Nalawade श्री मिनिनाथ देवराम... Karmala Devichamal June 18, 2025&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7c334b12-6296-459e-acb6-ebbf2ccc368e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>2695ff89-df97-4346-84aa-cc985855ea1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>13261f94-b8d8-4254-ae6c-3f06800a59b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>536de9f7-8f64-4553-8bef-f484288dd192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 384 512</value>
+      <webElementGuid>d93fbc9d-8e81-43af-a2eb-c2164a06077e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl</value>
+      <webElementGuid>ce846453-3a95-4d75-95cf-6c41a470a737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>22fd7cbc-fa08-4485-90fd-7c685c09793b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>b1753570-e53a-4a93-838a-d10cdbc8f824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>04d2b768-9a07-490f-bb64-52806ee7b5ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;mt-2 mb-4 pb-8&quot;]/div[@class=&quot;overflow-x-auto mt-2 rounded-[5px] border border-gray-400 shodow-md&quot;]/table[@class=&quot;_rounded_table_qqi9y_1 w-full md:table-fixed table-auto h-[460px]&quot;]/tbody[@class=&quot;oveerflow-y-scroll&quot;]/tr[@class=&quot;hover:bg-gray-100 cursor-pointer&quot;]/td[@class=&quot;text-center text-[14px]&quot;]/button[@class=&quot;text-primary hover:text-green-800 underline&quot;]/svg[@class=&quot;text-xl&quot;]</value>
+      <webElementGuid>0457cf8a-1177-4d89-a27d-ca1d75e184eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Action Needed'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a97648ca-5815-4f07-9d4e-5ee816ac68dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='आज दिनांक १८/०६/२०२५...'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8ab0c525-d54f-49dd-a549-bf95ba3d08fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Visit'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>1908ee23-4c92-48f4-b8d1-734af0b045e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jayawant Nalawade'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ff03f8d2-63d8-4657-ab83-6a95ac9d9669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mangalvedhe</name>
+   <tag></tag>
+   <elementGuidId>ac65a2c2-6240-48ed-8bbd-d892b12beef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Mangalvedhe$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82fa7721-98ef-41bd-8e6d-474fdfab15b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 flex items-center justify-between cursor-pointer</value>
+      <webElementGuid>27cfa189-3bde-4d51-bb37-d7aad8b7f416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mangalvedhe</value>
+      <webElementGuid>11539c05-7b58-47f2-8cf7-8d0ad10ba0ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;md:p-4 p-2 space-y-6 mt-2&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-6&quot;]/div[@class=&quot;md:col-span-1 space-y-2 border border-gray-400 p-4 rounded-[5px] h-[300px] overflow-y-auto relative&quot;]/div[@class=&quot;bg-white rounded-[5px] border border-gray-300&quot;]/div[@class=&quot;p-4 flex items-center justify-between cursor-pointer&quot;]</value>
+      <webElementGuid>edf5f7b1-10bf-467d-832a-056c5be1ad07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[5]/div/div[5]/div</value>
+      <webElementGuid>5bf22ef3-357d-4944-a99e-55d6ce62111e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malshiras'])[3]/following::div[2]</value>
+      <webElementGuid>0250d92f-db4a-47f5-b558-b7ea3c779290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madha'])[3]/following::div[5]</value>
+      <webElementGuid>ff6bb945-6c41-4dac-a4b2-8aae077fd2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohol'])[3]/preceding::div[2]</value>
+      <webElementGuid>dc9ab8a6-dc27-4a5d-88ee-42e1ea39f6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[5]/div</value>
+      <webElementGuid>7d9ed1b0-34da-45c2-a5e8-35f21f8596b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mangalvedhe' or . = 'Mangalvedhe')]</value>
+      <webElementGuid>53f379fe-c325-4ea8-81c0-1ab356d7523a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
