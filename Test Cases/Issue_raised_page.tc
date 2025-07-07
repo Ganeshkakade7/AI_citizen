@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Issue_raised_page</name>
+   <name>Issue_Raised_page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e72996f2-a6de-4280-98c2-c5c21a3043d6</testCaseGuid>
+   <testCaseGuid>1c24caf6-bc3b-4cd1-8e00-9c835b8e121f</testCaseGuid>
 </TestCaseEntity>

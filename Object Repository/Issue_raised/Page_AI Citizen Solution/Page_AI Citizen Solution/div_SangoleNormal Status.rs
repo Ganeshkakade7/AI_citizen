@@ -3,14 +3,15 @@
    <description></description>
    <name>div_SangoleNormal Status</name>
    <tag></tag>
-   <elementGuidId>d957a8d5-dd09-44cb-90a5-0250f33b028b</elementGuidId>
+   <elementGuidId>e77c0731-20c9-466f-b121-f7301b71d005</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div/div[1]/div[2]/div/div/div[4]/div[1]/div/div[1]</value>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>eaaddb40-d7c4-4644-bd5f-01d467c1e9cc</webElementGuid>
+      <webElementGuid>cad56a12-5fc9-49cf-8075-1cc1315d6e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex justify-between items-center mb-4 cursor-pointer hover:bg-gray-50 -mx-4 px-4 py-2 rounded-t</value>
-      <webElementGuid>f99032cd-527b-4a1b-b205-7d81e9063108</webElementGuid>
+      <webElementGuid>1c94c1eb-5440-4a7b-91f0-4f0e099d1d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SangoleNormal Status</value>
-      <webElementGuid>31291046-3d83-4cab-935c-3c918354d1d9</webElementGuid>
+      <webElementGuid>bb6c44a7-f326-41fe-a2c9-240bde820990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 gap-6&quot;]/div[@class=&quot;bg-white rounded-lg border border-gray-300 mb-6 overflow-hidden border-t-4 border-green-500&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex justify-between items-center mb-4 cursor-pointer hover:bg-gray-50 -mx-4 px-4 py-2 rounded-t&quot;]</value>
-      <webElementGuid>6cefac1a-98da-44d8-9917-af2fd51a95d3</webElementGuid>
+      <webElementGuid>1106468a-17e8-4638-b47f-b5ca1a8563e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -60,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div</value>
-      <webElementGuid>a5cc5e7f-c041-49e3-95ff-1b31cf0c732e</webElementGuid>
+      <webElementGuid>40a0ad48-825a-49ed-ad55-6156477831cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Conclusive'])[1]/following::div[4]</value>
-      <webElementGuid>2080d88f-7b15-456f-853c-1fce7e696a33</webElementGuid>
+      <webElementGuid>ea21f5ae-e780-4c8c-a36d-275f99ec04df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -76,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Conclusive Locations'])[1]/following::div[4]</value>
-      <webElementGuid>d36a74cd-71f1-4d5b-89ff-20fc5f193120</webElementGuid>
+      <webElementGuid>4891197d-ea8e-4ef4-90a1-0e5105eda2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-      <webElementGuid>71490a3b-f62b-4468-aa24-3f9a8cb0cae2</webElementGuid>
+      <webElementGuid>9af4435f-a3f7-4cec-a9c0-729e2fe7ea4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'SangoleNormal Status' or . = 'SangoleNormal Status')]</value>
-      <webElementGuid>cf85b294-1990-4390-a2f7-c28cf5ec3158</webElementGuid>
+      <webElementGuid>a87b4f38-c0c9-4efd-9f26-070fa48a6977</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
