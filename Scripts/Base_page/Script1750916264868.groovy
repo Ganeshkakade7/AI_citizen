@@ -3,8 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-
-import com.kms.katalon.core.annotation.BeforeTestCase
+import com.kms.katalon.core.annotation.BeforeTestCase as BeforeTestCase
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -19,11 +18,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-@BeforeTestCase
-def onBeforeTestStart() {
- WebUI.println ("\n..... Test is started")
-}
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
@@ -41,3 +35,4 @@ WebUI.sendKeys(findTestObject('Object Repository/Action_log/Page_AI Citizen Solu
 WebUI.click(findTestObject('Object Repository/Action_log/Page_AI Citizen Solution/span_Login'))
 
 WebUI.println('Login Successful.....!!')
+
