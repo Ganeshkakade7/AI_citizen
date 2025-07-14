@@ -147,6 +147,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+<<<<<<< HEAD
       <guid>e72fe56b-f52b-4b0f-9830-4a389cda6e40</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -154,6 +155,8 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+=======
+>>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
       <guid>0abfd14f-c198-4424-8051-71689d420fba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
@@ -180,5 +183,12 @@
          <value></value>
          <variableId>7e4080c7-c7b1-4f84-85b6-3a96e1834ea1</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e6c3d0ed-cfc0-4a2e-884d-48efe2abba58</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Issue_Raised_page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

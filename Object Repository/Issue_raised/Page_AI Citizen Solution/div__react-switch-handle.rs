@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]</value>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2] </value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>5b017391-0ce4-4259-b4a5-f54e7fe534f0</webElementGuid>
+      <webElementGuid>15d3c07d-ff54-4dca-8d7b-91ddd892f674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-switch-handle</value>
-      <webElementGuid>d6829b8d-17e1-40d8-a0b4-c66eeaf9c8d2</webElementGuid>
+      <webElementGuid>4481f4b5-972d-47c9-a57d-7f9da5f0eb36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 mb-12 md:mb-2&quot;]/div[@class=&quot;mb-4 flex justify-between items-center text-primary flex-wrap gap-4&quot;]/div[@class=&quot;flex flex-col md:flex-row items-center gap-2 justify-center md:justify-between&quot;]/div[@class=&quot;flex flex-row items-center&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;react-switch&quot;]/div[@class=&quot;react-switch-handle&quot;]</value>
-      <webElementGuid>7445dc0f-4fa9-40a4-bd98-8f2e0fdcbfff</webElementGuid>
+      <webElementGuid>7421a72d-e691-4d82-9103-9a26835ed551</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]</value>
-      <webElementGuid>f743f819-56fe-44de-9a1f-15ccab7efe83</webElementGuid>
+      <webElementGuid>70e49ef2-d169-4163-8947-3083d9cc3224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div[2]</value>
-      <webElementGuid>1a4dd04e-3588-42dc-b75b-df4d0f3f408d</webElementGuid>
+      <webElementGuid>fce6edb7-d361-4cc9-b440-94819d39f240</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
