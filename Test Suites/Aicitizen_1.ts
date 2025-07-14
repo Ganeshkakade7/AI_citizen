@@ -115,13 +115,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>73859148-fd07-4491-a8dc-76a64127a1d7</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Issue_raised_page</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>8a5a1d64-9144-4f88-8a8b-c2c73eae7fc6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
