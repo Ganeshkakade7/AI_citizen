@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>586fa6b5-6fe6-4c8c-9b05-721c66476e97</webElementGuid>
+      <webElementGuid>92305cac-4651-4960-b15e-1c5dea798fc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-[12px] whitespace-nowrap text-ellipsis</value>
-      <webElementGuid>81df219d-bee3-452f-a958-2fc070aba8e5</webElementGuid>
+      <webElementGuid>d2c53a4d-2cde-4848-95fd-25c35148184d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>WhatsApp Confirmation Report</value>
-      <webElementGuid>ea6d83bc-3f3b-48e8-9fe1-4609884df07a</webElementGuid>
+      <webElementGuid>1a3a5dae-fcd0-49c2-b74f-3de955146988</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;transition-all duration-200 ease-linear
             md:relative absolute z-20 overflow-hidden
             md:min-w-[250px] w-[200px] min-w-max&quot;]/div[@class=&quot;flex justify-center bg-primary&quot;]/div[@class=&quot;min-h-screen flex justify-left overflow-auto&quot;]/div[1]/nav[1]/ul[@class=&quot;flex flex-col md:h-5 p-0 md:px-0 px-2 h-0 items-start gap-2 md:gap-0 mt-4&quot;]/li[@class=&quot;cursor-pointer text-secondary flex flex-col justify-center items-start p-2 w-full&quot;]/ul[@class=&quot;w-full z-20 bg-primary flex-col text-sm flex md:bg-transparent rounded-none mt-2 static w-full&quot;]/li[@class=&quot;cursor-pointer flex items-center p-2 pl-4 rounded-[8px] hover:text-white text-secondary&quot;]/div[@class=&quot;text-[12px] whitespace-nowrap text-ellipsis&quot;]</value>
-      <webElementGuid>58eb73e8-f6d4-4b0a-9f5e-438630042f56</webElementGuid>
+      <webElementGuid>0bcf9bd7-2312-425d-a8ff-455739064eb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/nav/ul/li[6]/ul/li[5]/div[2]</value>
-      <webElementGuid>f3d64277-b137-40b8-9e6a-2128c2d2d146</webElementGuid>
+      <webElementGuid>cae200d7-ae17-4db7-aedb-64ccf6686ed2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Reports'])[1]/following::div[2]</value>
-      <webElementGuid>f147cfb1-5eb6-4919-8af1-eb3c38192e34</webElementGuid>
+      <webElementGuid>14a631a4-a780-46e9-baaf-96b4bc179a2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Attempt Reports'])[1]/following::div[4]</value>
-      <webElementGuid>b928329d-ddc6-4836-965b-e2165a23d1b4</webElementGuid>
+      <webElementGuid>68e12425-3049-4357-b420-5b6e4d422410</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp Issue Reports'])[1]/preceding::div[2]</value>
-      <webElementGuid>442c1e68-39a1-4882-8762-9e70c02cbacd</webElementGuid>
+      <webElementGuid>51294fbb-2275-437e-9f8e-2dd047f18542</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp Action Confirm..'])[1]/preceding::div[4]</value>
-      <webElementGuid>b0657cd6-9183-4e1e-a247-fb8028ddf58d</webElementGuid>
+      <webElementGuid>44531b02-0e73-4851-a878-bba3a0736b3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='WhatsApp Confirmation Report']/parent::*</value>
-      <webElementGuid>a43718b6-9f5b-4afe-bc9c-2d83c71fc4e7</webElementGuid>
+      <webElementGuid>3ada9224-3574-4fb9-a2df-bd410243d381</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/div[2]</value>
-      <webElementGuid>6be91c72-baa3-4df0-9d95-86f01025160d</webElementGuid>
+      <webElementGuid>6fc465f8-dcc7-4eb0-b935-a8cf37beea93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'WhatsApp Confirmation Report' or . = 'WhatsApp Confirmation Report')]</value>
-      <webElementGuid>bc125242-1dd1-4b24-85e4-31e8d88664d9</webElementGuid>
+      <webElementGuid>bb83855a-4328-44bb-a568-89c3024312cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

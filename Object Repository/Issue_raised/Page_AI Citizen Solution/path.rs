@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>72d1404d-20d6-443c-be28-4aa07e3b5a3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-4.w-4 > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Call&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a7650621-41e9-48d7-83f2-f78bc4cbc1a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>9898abd2-0611-40cc-9892-26f6a0b2d274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>d4994f41-3803-46ee-8694-7a5d17d72ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>49bb2042-b8d0-4f97-a4fe-1f7f72dc4183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z</value>
+      <webElementGuid>530588af-63db-428b-ba77-81d152591441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 mb-12 md:mb-2&quot;]/div[@class=&quot;w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6&quot;]/div[@class=&quot;relative z-10 bg-white p-5 rounded-[5px] shadow-md border 
+                    border-gray-300 flex flex-col cursor-pointer transition-all duration-200&quot;]/div[@class=&quot;border-b border-gray-200 pb-2&quot;]/div[@class=&quot;flex lg:flex-row flex-col-reverse justify-between items-center&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/div[@class=&quot;relative group&quot;]/button[@class=&quot;bg-primary hover:bg-primary/90 transition-colors text-white p-1.5 rounded-full flex items-center justify-center h-7 w-7 shadow-sm&quot;]/svg[@class=&quot;h-4 w-4&quot;]/path[1]</value>
+      <webElementGuid>4c9ebffe-c83d-41ef-9cfb-c1eaefdfb063</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

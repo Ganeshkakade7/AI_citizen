@@ -3,21 +3,15 @@
    <description></description>
    <name>div_SangoleNormal Status</name>
    <tag></tag>
-   <elementGuidId>d957a8d5-dd09-44cb-90a5-0250f33b028b</elementGuidId>
+   <elementGuidId>2c062403-97d1-4d4b-8db1-6bf572d38d2e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-<<<<<<< HEAD
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Conclusive'])[1]/following::div[4]</value>
-=======
-         <value>/html/body/div[1]/div/div[1]/div[2]/div/div/div[4]/div[1]/div/div[1]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
-      </entry>
-      <entry>
-         <key>CSS</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -35,11 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-<<<<<<< HEAD
-      <webElementGuid>cf374892-b476-441d-ad21-362e7707d7e0</webElementGuid>
-=======
-      <webElementGuid>eaaddb40-d7c4-4644-bd5f-01d467c1e9cc</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>e6c4a062-61c2-4140-b200-edb8f102b9ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,11 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex justify-between items-center mb-4 cursor-pointer hover:bg-gray-50 -mx-4 px-4 py-2 rounded-t</value>
-<<<<<<< HEAD
-      <webElementGuid>f583c1d9-5f54-4f2e-8c1f-8e6661112e27</webElementGuid>
-=======
-      <webElementGuid>f99032cd-527b-4a1b-b205-7d81e9063108</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>0a3244bd-cb76-4093-8640-578f6f853e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,11 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>SangoleNormal Status</value>
-<<<<<<< HEAD
-      <webElementGuid>19a0c27c-9fcb-42d4-adab-f65c93b454ce</webElementGuid>
-=======
-      <webElementGuid>31291046-3d83-4cab-935c-3c918354d1d9</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>18c4261c-75cb-4425-bc63-0f8634140ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,11 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 space-y-6&quot;]/div[@class=&quot;grid grid-cols-1 gap-6&quot;]/div[@class=&quot;bg-white rounded-lg border border-gray-300 mb-6 overflow-hidden border-t-4 border-green-500&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;flex justify-between items-center mb-4 cursor-pointer hover:bg-gray-50 -mx-4 px-4 py-2 rounded-t&quot;]</value>
-<<<<<<< HEAD
-      <webElementGuid>a0db438f-0eb1-48a7-bcbb-e38105180c38</webElementGuid>
-=======
-      <webElementGuid>6cefac1a-98da-44d8-9917-af2fd51a95d3</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>4ac6285a-df6b-49f0-ae49-dd4ac3afeb49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,11 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[4]/div/div/div</value>
-<<<<<<< HEAD
-      <webElementGuid>471b4950-420a-4e01-b1e7-92979ea6020e</webElementGuid>
-=======
-      <webElementGuid>a5cc5e7f-c041-49e3-95ff-1b31cf0c732e</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>050aa075-a014-455e-b872-66ace22cc80b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,11 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Conclusive'])[1]/following::div[4]</value>
-<<<<<<< HEAD
-      <webElementGuid>5ed7507f-ca8b-4a05-9287-736ece209069</webElementGuid>
-=======
-      <webElementGuid>2080d88f-7b15-456f-853c-1fce7e696a33</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>4574c245-4828-43e3-94dd-35b51f80f11a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,11 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Conclusive Locations'])[1]/following::div[4]</value>
-<<<<<<< HEAD
-      <webElementGuid>b6023d1a-8fa2-4594-a881-da4779547fed</webElementGuid>
-=======
-      <webElementGuid>d36a74cd-71f1-4d5b-89ff-20fc5f193120</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>3dee78ac-b54f-4f9f-b443-99bbf905064e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,11 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div</value>
-<<<<<<< HEAD
-      <webElementGuid>c35b86f2-6029-4e23-a27f-5f094f50a454</webElementGuid>
-=======
-      <webElementGuid>71490a3b-f62b-4468-aa24-3f9a8cb0cae2</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>c5e7ce8d-d57b-4a73-a508-548c8cfa00e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,10 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'SangoleNormal Status' or . = 'SangoleNormal Status')]</value>
-<<<<<<< HEAD
-      <webElementGuid>05ee1d2e-857c-4b0a-a71e-241c9c50bb07</webElementGuid>
-=======
-      <webElementGuid>cf85b294-1990-4390-a2f7-c28cf5ec3158</webElementGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+      <webElementGuid>25e0d82f-d4bb-4816-a450-e679d9d5fe05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

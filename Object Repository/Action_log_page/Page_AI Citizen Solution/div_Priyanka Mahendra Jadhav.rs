@@ -6,12 +6,12 @@
    <elementGuidId>554d94b9-4d1b-4a23-96f5-2041962f1337</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-4-option-2</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Manish Hansraj Yadav'])[1]/following::div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-4-option-2']</value>
+         <key>CSS</key>
+         <value>#react-select-4-option-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -150,13 +150,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>76445fed-f52d-4193-9f40-14a5917a646f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Whatsapp_confirmation_report_page</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>699e4312-319b-42cd-a8ff-f92523b4099b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

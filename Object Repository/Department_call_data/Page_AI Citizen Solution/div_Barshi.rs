@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-2-option-1']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/following::div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

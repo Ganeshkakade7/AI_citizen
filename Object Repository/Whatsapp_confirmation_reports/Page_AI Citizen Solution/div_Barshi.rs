@@ -6,12 +6,12 @@
    <elementGuidId>86009df1-00ff-4b75-ab2c-3de00c1cbfc1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-4-option-1</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Taluka'])[1]/following::div[7]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value> //div[text()='Barshi']</value>
+         <key>CSS</key>
+         <value>#react-select-3-option-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ce6f34c6-cb25-4104-b27a-ec3538a14613</webElementGuid>
+      <webElementGuid>6085f47e-8b64-4689-86bf-8eee63af4c28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-d7l1ni-option</value>
-      <webElementGuid>03493509-818b-41ea-a56d-66ec32e6c147</webElementGuid>
+      <webElementGuid>83d82b46-945c-4460-9652-c1a3892bfb8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4049083d-d2cf-40c9-b4dd-2542b3acba95</webElementGuid>
+      <webElementGuid>e6aef6f1-8794-43dc-8f35-4f211d79084b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>react-select-4-option-1</value>
-      <webElementGuid>28e09215-cbac-432b-9fe4-635537b3511c</webElementGuid>
+      <value>react-select-3-option-1</value>
+      <webElementGuid>d1f65fb8-a5f3-4013-a530-5e4dfa218627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>bea4fc4b-d6fb-4ea9-a145-402397f9b782</webElementGuid>
+      <webElementGuid>b27ed7fb-0593-4b64-9d24-29a8ff87e9e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>03202f2c-17c9-46d7-aa3b-d08610bb4def</webElementGuid>
+      <webElementGuid>bd5a7000-0018-42f3-bc5f-6d78d8ef07db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ff42f075-5f1a-4bd8-9e81-2c0183073386</webElementGuid>
+      <webElementGuid>1910c5a8-df4e-435d-bb17-bbd1a457fa37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,18 +85,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Barshi</value>
-      <webElementGuid>64844de6-7c20-4488-afef-285e1e326192</webElementGuid>
+      <webElementGuid>f6ab6ed4-71f6-4dad-b079-bdd665fa170c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-4-option-1&quot;)</value>
-      <webElementGuid>681a611b-61b8-40d6-b76d-ba4876289059</webElementGuid>
+      <value>id(&quot;react-select-3-option-1&quot;)</value>
+      <webElementGuid>77817894-96c9-40ea-a17e-d365f163b1a7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-3-option-1']</value>
+      <webElementGuid>0fe458ef-4f69-465c-bb3c-5679708cff25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-3-listbox']/div[2]</value>
+      <webElementGuid>19eac793-ec87-4c90-9b7d-1bb210780811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/following::div[1]</value>
+      <webElementGuid>ab330a8e-2cd7-4ab2-89e6-e3c252a584b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Taluka'])[1]/following::div[7]</value>
+      <webElementGuid>c35342d9-85ef-4d6a-a8ef-781a272d3f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karmala'])[1]/preceding::div[1]</value>
+      <webElementGuid>601cc854-608a-434d-be8d-fdd4a59427be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madha'])[1]/preceding::div[2]</value>
+      <webElementGuid>937af0fa-a12b-49aa-8eec-13940a242eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Barshi']/parent::*</value>
+      <webElementGuid>f8bdf96b-35ec-4579-85ea-d24ceaee2d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]</value>
+      <webElementGuid>35cd1ec2-60a6-40da-b975-4fd1f1d8938e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-3-option-1' and (text() = 'Barshi' or . = 'Barshi')]</value>
+      <webElementGuid>c34fe46c-6c32-448e-bad5-b610cc335d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -110,54 +182,6 @@
       <type>Main</type>
       <value>//div[@id='react-select-4-listbox']/div[2]</value>
       <webElementGuid>86a44124-00e7-42ca-8fa1-87600e12f342</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akkalkot'])[1]/following::div[1]</value>
-      <webElementGuid>55d0f86a-8050-4b1f-81bd-7f838a6a4303</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Taluka'])[1]/following::div[7]</value>
-      <webElementGuid>3a92a2fd-49b2-4795-8671-33721bea4a14</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karmala'])[1]/preceding::div[1]</value>
-      <webElementGuid>1ac1eb07-1eb0-4cf3-8714-b49b95c7f821</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madha'])[1]/preceding::div[2]</value>
-      <webElementGuid>43de260b-868d-4c2d-8a47-33a0ce53d1a5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Barshi']/parent::*</value>
-      <webElementGuid>ed329798-a332-48bd-87f8-34a600060d58</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div/div[2]/div/div[2]</value>
-      <webElementGuid>18cb0494-f926-44c8-bac0-3924d5820492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

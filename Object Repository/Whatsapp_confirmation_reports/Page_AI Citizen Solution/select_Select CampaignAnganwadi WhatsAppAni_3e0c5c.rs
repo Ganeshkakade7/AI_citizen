@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6f790433-a36a-4265-b530-e520fb0fc248</webElementGuid>
+      <webElementGuid>e671da00-857a-4734-a84d-4d1df27469d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>campaign</value>
-      <webElementGuid>573cf23d-83ea-49c5-9710-7ad7e447a00d</webElementGuid>
+      <webElementGuid>3ecc2c29-c890-419a-9aab-57d8358401a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-64 px-3 py-2 text-sm bg-white border border-gray-300 rounded-md focus:outline-none focus:ring-1 focus:ring-primary focus:border-primary</value>
-      <webElementGuid>b42b6fcf-b060-4429-873e-444d7ae54ea3</webElementGuid>
+      <webElementGuid>6d054c22-79c3-4049-a1ef-3af194a219b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select CampaignAnganwadi WhatsAppAnimal Hospital WhatsAppSchool WhatsAppRation Shop WhatsAppHospital WhatsApp</value>
-      <webElementGuid>33c56196-86f7-4d2c-b354-b6ee66409744</webElementGuid>
+      <webElementGuid>b7604e11-45de-4625-93cd-7b83e8729eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;campaign&quot;)</value>
-      <webElementGuid>b241265b-6d10-4d02-9314-299e493c8bef</webElementGuid>
+      <webElementGuid>57c93456-3f82-4f42-99fa-71b8098e4e56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='campaign']</value>
-      <webElementGuid>526619b9-1cfc-441d-864c-d500b495b1c2</webElementGuid>
+      <webElementGuid>4b72c950-2ad7-41cc-a741-8c2ab5c3cab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/div/select</value>
-      <webElementGuid>56918052-9eb6-404b-93aa-a5a4f0335cfd</webElementGuid>
+      <webElementGuid>e353dba4-3a7f-4aff-998c-7ce01528fba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign'])[1]/following::select[1]</value>
-      <webElementGuid>2cd1722c-d867-47b3-a310-c282b6153dc5</webElementGuid>
+      <webElementGuid>fa931776-e8f1-4b73-9a61-46fab7374f33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp Confirmation Report'])[1]/following::select[1]</value>
-      <webElementGuid>20800449-78ef-4ae6-a961-1bfd7c7441dc</webElementGuid>
+      <webElementGuid>725e4796-be7a-47fb-a92b-23e07fe453bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='From Date'])[1]/preceding::select[1]</value>
-      <webElementGuid>c86ee8f3-8e6e-4e30-8676-7d45df24c28c</webElementGuid>
+      <webElementGuid>e986fa64-d7a6-4942-a81d-231106a0e22f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='To Date'])[1]/preceding::select[1]</value>
-      <webElementGuid>c5d705da-c755-4953-8fdf-b6b5e0861064</webElementGuid>
+      <webElementGuid>e7b59506-7aa5-45aa-982b-3778c0aa35b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/select</value>
-      <webElementGuid>734f8702-5495-4542-9d56-3a1caf60f073</webElementGuid>
+      <webElementGuid>fde2651e-5c94-49db-88d2-fdc40546659c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'campaign' and (text() = 'Select CampaignAnganwadi WhatsAppAnimal Hospital WhatsAppSchool WhatsAppRation Shop WhatsAppHospital WhatsApp' or . = 'Select CampaignAnganwadi WhatsAppAnimal Hospital WhatsAppSchool WhatsAppRation Shop WhatsAppHospital WhatsApp')]</value>
-      <webElementGuid>e02635fe-c91d-4377-8258-2c95d6a02bfc</webElementGuid>
+      <webElementGuid>d151451a-9dff-4fe1-b8a3-3d603f3d190f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

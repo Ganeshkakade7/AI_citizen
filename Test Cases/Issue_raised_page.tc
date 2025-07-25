@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Issue_Raised_page</name>
+   <name>Issue_raised_page</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-<<<<<<< HEAD
-   <testCaseGuid>e8312be3-454c-45b8-9c52-41e256f831b0</testCaseGuid>
-=======
-   <testCaseGuid>1c24caf6-bc3b-4cd1-8e00-9c835b8e121f</testCaseGuid>
->>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c
+   <testCaseGuid>0d477b80-c1b5-4263-a5b0-18eadf5e5d82</testCaseGuid>
 </TestCaseEntity>

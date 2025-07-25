@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Summary</name>
    <tag></tag>
-   <elementGuidId>4a678871-376e-4ca2-befb-e6aa2069f661</elementGuidId>
+   <elementGuidId>5ddd1edd-e39f-49b7-b2b9-36c462fd4c37</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/div/button</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>72ddaec0-42da-4029-9c0e-090ce68e9cca</webElementGuid>
+      <webElementGuid>261ad4eb-9280-48bd-9eb9-f4ba539a266b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10</value>
-      <webElementGuid>26c5f5e3-f037-482f-bad4-bbe418bdc333</webElementGuid>
+      <webElementGuid>1dc696ea-d742-4c1f-b504-1ea1edd77a3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Summary</value>
-      <webElementGuid>c91e0c98-4319-4610-a09b-eb21d50116f7</webElementGuid>
+      <webElementGuid>cb48f8ea-52b6-4033-90ee-f1dd48b9057f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-30&quot;]/div[@class=&quot;bg-white rounded-[4px] overflow-hidden shadow-lg w-full mx-4 max-w-lg border border-gray-300&quot;]/div[@class=&quot;flex justify-between items-center sticky top-0 bg-white p-4 z-20 shadow-sm border-b border-gray-200 rounded-t-[4px]&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;hidden md:block text-sm border border-primary rounded-[4px] px-3 py-1.5 transition-colors text-primary bg-white hover:bg-primary/10&quot;]</value>
-      <webElementGuid>16df8bc2-9c48-463a-9028-5cc7ff6b7410</webElementGuid>
+      <webElementGuid>9b1b6708-0c78-4e6c-b270-c6af03d91f22</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/div/button</value>
-      <webElementGuid>f4b347d2-6c90-496e-9f52-86ab62c41270</webElementGuid>
+      <webElementGuid>bd4f7820-6758-4266-8e5c-d3a183e3a7f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversation History'])[1]/following::button[1]</value>
-      <webElementGuid>0ca3e657-8901-4f39-8ad2-755d27a9806e</webElementGuid>
+      <webElementGuid>a3f72e38-ca15-48a2-843a-106bf5802281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Taken'])[1]/following::button[4]</value>
-      <webElementGuid>9c0ce81b-9f98-4ea6-8dde-43a874d4b777</webElementGuid>
+      <webElementGuid>d297d707-3082-46fd-90b9-76f1c75434f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[1]/preceding::button[2]</value>
-      <webElementGuid>7970833e-7dff-4279-88b2-5b0a1d9e8992</webElementGuid>
+      <webElementGuid>67adbffb-8c97-4cf7-8b0a-efbcdb852c5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Summary']/parent::*</value>
-      <webElementGuid>2b3d5a1c-9b5a-4036-ae28-3ceb1880751e</webElementGuid>
+      <webElementGuid>05010e16-c89a-4860-8883-c16427fa13e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div/button</value>
-      <webElementGuid>b93c91ae-9f5a-43c2-bd17-e650e3fcfc9a</webElementGuid>
+      <webElementGuid>82bb3aef-4a6d-4404-a837-199b36844d33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Summary' or . = 'Summary')]</value>
-      <webElementGuid>648b60d4-d60a-4591-a458-618897e7974b</webElementGuid>
+      <webElementGuid>72da7118-93c0-49b1-903f-a29a5275e014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi'])[1]/preceding::button[2]</value>
+      <webElementGuid>3549921b-25f6-404e-bbf6-f87d2f32c2e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

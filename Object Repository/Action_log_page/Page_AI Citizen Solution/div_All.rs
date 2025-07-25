@@ -6,12 +6,12 @@
    <elementGuidId>9497ee1f-6276-4059-bf61-fd2e3d989889</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-4-option-0</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Vishnu Shripati Kolekar'])[1]/following::div[6]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-4-option-0']</value>
+         <key>CSS</key>
+         <value>#react-select-4-option-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

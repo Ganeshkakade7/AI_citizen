@@ -6,11 +6,11 @@
    <elementGuidId>6b72ccad-bddc-48ce-bc02-3d889164c938</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[1]/div[1]/div/div/div/nav/ul/li[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][8]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>921ffae9-fe78-456f-9b85-5d3fb38594f7</webElementGuid>
+      <webElementGuid>1bcad394-d194-452e-acf4-b13d978ba888</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +36,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>1d9beb5d-2c48-43ee-b33e-8b0645d855d4</webElementGuid>
+      <webElementGuid>a81119d2-0b32-4cc3-a70b-1974f334aa27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>9a767fe5-6609-4aca-90d8-2ca2e0d2c520</webElementGuid>
+      <webElementGuid>986bfd18-6b34-4287-ae7c-ee7ccf891274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>8b3e667f-cfba-4398-b2f6-d810a753343b</webElementGuid>
+      <webElementGuid>2c73e849-4674-4acd-9b95-a1991db6bbc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>1d297a54-d223-4115-b3b2-76b570a5ebca</webElementGuid>
+      <webElementGuid>474feddf-6c59-46f8-b718-f39f499486c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>height</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>32c5f773-2fae-4785-82a3-357bcf558aea</webElementGuid>
+      <webElementGuid>589f884e-cae0-4bce-9daa-55e641b176ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>width</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>3c4668ce-c310-4186-8a99-f387947ab9e7</webElementGuid>
+      <webElementGuid>d799a65d-c1b9-45f9-9263-53e045f2f72a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>0cb5c42d-7d2f-42b6-8416-4a0a56b5b91f</webElementGuid>
+      <webElementGuid>8d55a88c-29e9-4611-84f8-5187a4b36970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;transition-all duration-200 ease-linear
             md:relative absolute z-20 overflow-hidden
             md:w-[80px] md:min-w-[80px] w-0&quot;]/div[@class=&quot;flex justify-center bg-primary&quot;]/div[@class=&quot;min-h-screen flex justify-left overflow-auto&quot;]/div[1]/nav[1]/ul[@class=&quot;flex flex-col md:h-5 p-0 md:px-0 px-2 h-0 items-center gap-2 md:gap-0 mt-4&quot;]/li[@class=&quot;cursor-pointer text-secondary flex flex-col justify-center items-start p-2 w-max&quot;]/div[@class=&quot;flex items-center justify-center w-full p-2 rounded-lg hover:text-white text-secondary&quot;]/div[@class=&quot;md:mr-0 mr-0 px-0&quot;]/svg[1]</value>
-      <webElementGuid>b6e93c71-1540-44d3-aa75-899d99c7ad07</webElementGuid>
+      <webElementGuid>2309df1a-da96-472c-a37d-9e5120261304</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>91c6ced8-3ce3-4791-bbb3-372aac45155b</webElementGuid>
+      <webElementGuid>82f4337d-3a44-43bb-977d-3ba2525259af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>8aa05f3e-2b7e-44c9-a6b7-53aa395643f2</webElementGuid>
+      <webElementGuid>93207e26-8e0f-4fe2-8811-6342675ea804</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::*[name()='svg'][8]</value>
-      <webElementGuid>e8935990-eaa4-4466-abdc-37c1f9101bfe</webElementGuid>
+      <webElementGuid>cc36f4a3-9679-4e54-94ec-cdec0d3ef409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/preceding::*[name()='svg'][9]</value>
-      <webElementGuid>359df527-fe77-4436-a32b-36b001d18199</webElementGuid>
+      <webElementGuid>255b7d49-8a3f-42c6-8efe-99d1aa3c6042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>cbc68811-b6c8-48b0-973e-d5bf99cd2539</webElementGuid>
+      <webElementGuid>f349307d-a424-431a-be40-f4bd5d8cf3d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Department:'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>153a1f6f-86b2-4ea4-a604-1cd7c0a19bab</webElementGuid>
+      <webElementGuid>55b01e3b-d43c-4578-8dbc-a33f6e58b8b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='From Date:'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>5e8f5bbe-009d-4dbf-810c-c74024747e89</webElementGuid>
+      <webElementGuid>d96ce73e-bb0f-47a5-bfb6-a469d7dd894e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +158,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='To Date:'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>2ecf3aa3-ab94-4fa8-80ac-dbcab46c93fc</webElementGuid>
+      <webElementGuid>3d62962d-6bb9-4162-bc84-80489a898516</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

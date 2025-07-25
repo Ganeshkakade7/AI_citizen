@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>b8db8ed1-7466-4f94-8780-041d3815680b</elementGuidId>
+   <elementGuidId>149be6f5-21c5-425b-9283-c40816f36f7a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[5]/button</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[5]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>796d393b-2df9-491e-8f87-9963c3e41575</webElementGuid>
+      <webElementGuid>d155a919-31a2-433d-a07b-fbdc90a75609</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-4 py-2 bg-gray-400 text-white rounded-md hover:bg-gray-500</value>
-      <webElementGuid>ce21994f-d8ec-4dd1-b88a-d5646cd06bbe</webElementGuid>
+      <webElementGuid>ac9d1152-9fe8-4eb6-a179-cc948dcf19d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>dbff9201-a111-4192-b760-82efbfaa3a30</webElementGuid>
+      <webElementGuid>bf15d493-f374-4c71-a6bf-cca6ad9d3d00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white p-6 rounded-lg shadow-lg mt-0&quot;]/div[@class=&quot;flex justify-end space-x-3&quot;]/button[@class=&quot;px-4 py-2 bg-gray-400 text-white rounded-md hover:bg-gray-500&quot;]</value>
-      <webElementGuid>18601cf5-c62c-4fd0-a546-13df60d08aec</webElementGuid>
+      <webElementGuid>664a2f1c-6f0f-49aa-9407-69cde8fee93c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div[5]/button</value>
-      <webElementGuid>218990ba-c0e1-4da3-b50b-bd0d4987e59a</webElementGuid>
+      <webElementGuid>d0a35bc8-a9a3-4615-a34f-32100a6399f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please check the dialer number before calling'])[1]/following::button[1]</value>
-      <webElementGuid>e4f99169-00a7-4dac-9994-0bdff2fe9101</webElementGuid>
+      <webElementGuid>f023a422-a889-463e-abff-435ef1a06da9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='**NOTE**'])[1]/following::button[1]</value>
-      <webElementGuid>27633123-4502-480c-ba1d-b38164c6ab8c</webElementGuid>
+      <webElementGuid>2e3767bb-6764-45f2-bcde-aa16b42ced07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a Call'])[1]/preceding::button[1]</value>
-      <webElementGuid>7d2d3510-78c4-4420-94ff-0401a6b0af43</webElementGuid>
+      <webElementGuid>07ee8c7d-9c09-4407-8a50-88f1ef9c3f11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>ca424f19-c2cf-4ee9-b7ac-438171d3427b</webElementGuid>
+      <webElementGuid>f496aa0e-49bd-48ee-a007-07b23f5e65e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>5de3f9ff-34a6-4571-adfb-6e942dd4cc5a</webElementGuid>
+      <webElementGuid>b8349a9b-9af6-44de-88d3-48d71c908934</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>df78bfaa-03da-49ff-ada3-aa71029c0915</webElementGuid>
+      <webElementGuid>7a559ba4-937d-47f3-b8de-e3bd249067d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

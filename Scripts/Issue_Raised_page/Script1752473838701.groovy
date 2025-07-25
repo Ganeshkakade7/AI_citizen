@@ -20,68 +20,68 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('Base_page'), [:], FailureHandling.STOP_ON_FAILURE)
 
 <<<<<<<< HEAD:Scripts/Issue_Raised_page/Script1752473838701.groovy
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div_AI Citizen Engagement Solution_mdmr-0 m_54445b'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div_PandharpurNormal Status'))
+WebUI.click(findTestObject('null'))
 ========
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_AI Citizen Engagement Solution_svg-inli_957acc'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div_SangoleNormal Status'))
+WebUI.click(findTestObject('null'))
 >>>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c:Scripts/Issue_Raised_page/Script1751881604544.groovy
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Show reports'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_Created At_text-xl'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/select_AllOpenClosed'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '0', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/select_AllOpenClosed'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '2', true)
 
 <<<<<<<< HEAD:Scripts/Issue_Raised_page/Script1752473838701.groovy
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Sudhakar Kakade_bg-primary hoverbg-p_1a3a0d'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Close'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Call Citizen_bg-primary hoverbg-prim_970696'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Summary'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div__react-switch-handle'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div__react-switch-handle'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/p_Action Taken'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/p_Action Taken'))
+WebUI.click(findTestObject('null'))
 ========
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_Call Citizen_h-4 w-4'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Summary'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/svg_1_2'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/p_Action Taken'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/p_Action Taken'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Rahul Balu Madane_bg-primary hoverbg_0bbdf8'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Close'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div__react-switch-bg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/div__react-switch-bg'))
+WebUI.click(findTestObject('null'))
 >>>>>>>> 462afa0cbb0770e168d0ae6fdbb65587538cb43c:Scripts/Issue_Raised_page/Script1751881604544.groovy
 
-WebUI.click(findTestObject('Object Repository/Issue_raised/Page_AI Citizen Solution/Page_AI Citizen Solution/button_Logout'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 

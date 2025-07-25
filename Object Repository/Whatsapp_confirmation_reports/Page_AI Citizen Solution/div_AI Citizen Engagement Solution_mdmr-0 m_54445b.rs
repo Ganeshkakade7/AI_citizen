@@ -7,10 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::div[8]</value>
+         <value>//div[@id='root']/div/div/div/div/div/div/nav/ul/li[6]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f029927f-f90f-4ef1-b942-3b520b37b136</webElementGuid>
+      <webElementGuid>8692a985-3c87-4b91-9019-ab59cb6d99ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>md:mr-0 mr-0 px-0</value>
-      <webElementGuid>57d76b7e-66b2-4218-a211-867b327d3f66</webElementGuid>
+      <webElementGuid>7f826f93-6005-4983-a00f-72b628c631d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;transition-all duration-200 ease-linear
             md:relative absolute z-20 overflow-hidden
             md:w-[80px] md:min-w-[80px] w-0&quot;]/div[@class=&quot;flex justify-center bg-primary&quot;]/div[@class=&quot;min-h-screen flex justify-left overflow-auto&quot;]/div[1]/nav[1]/ul[@class=&quot;flex flex-col md:h-5 p-0 md:px-0 px-2 h-0 items-center gap-2 md:gap-0 mt-4&quot;]/li[@class=&quot;cursor-pointer text-secondary flex flex-col justify-center items-start p-2 w-max&quot;]/div[@class=&quot;flex items-center justify-center w-full p-2 rounded-lg hover:text-white text-secondary&quot;]/div[@class=&quot;md:mr-0 mr-0 px-0&quot;]</value>
-      <webElementGuid>62677962-1c36-449f-867d-3380cf70b3c1</webElementGuid>
+      <webElementGuid>c84547cb-91f5-4d54-bfe5-c4ecc937e77c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div/nav/ul/li[6]/div/div</value>
-      <webElementGuid>1fbd7112-2dc3-4c01-9203-69e040557d84</webElementGuid>
+      <webElementGuid>6c293ff2-0ed5-44ed-963f-48a4c3ccb5eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Citizen Engagement Solution'])[1]/preceding::div[8]</value>
-      <webElementGuid>90f0e484-5967-4014-a8ef-bac93e1f0892</webElementGuid>
+      <webElementGuid>e1f86813-04b1-4ba5-99c7-d7e9ee48da6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/preceding::div[10]</value>
-      <webElementGuid>828f79e9-6288-48f5-9644-c3ce476bff23</webElementGuid>
+      <webElementGuid>139f3ac2-4f9a-43d8-8c25-6ef8fed6be29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +79,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/div/div</value>
-      <webElementGuid>1d49d39f-f5f0-4415-927f-0ff1b3667a90</webElementGuid>
+      <webElementGuid>cf68c2ad-17ec-443e-a6ea-4cf545389d06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

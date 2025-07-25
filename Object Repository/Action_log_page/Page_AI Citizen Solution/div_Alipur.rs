@@ -6,12 +6,12 @@
    <elementGuidId>cef333c2-c761-4db5-bda7-6078ccf5567d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-6-option-1</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Agalgaon'])[1]/following::div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-6-option-1']</value>
+         <key>CSS</key>
+         <value>#react-select-6-option-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

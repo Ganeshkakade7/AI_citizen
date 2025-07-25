@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg_1_2</name>
+   <name>svg</name>
    <tag></tag>
-   <elementGuidId>17bc9127-8ab0-4125-8961-8bd4832b8d11</elementGuidId>
+   <elementGuidId>f2da2335-52b4-4f5a-aa3d-a6556557cf93</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.bg-primary.text-white.p-1.rounded-md.flex.items-center.justify-center > svg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>div >> internal:has-text=/^Summary$/ >> internal:role=button >> nth=1</value>
+         <value>internal:role=button[name=&quot;Toggle Language&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>941d7afa-184c-4746-87b0-a770c1787598</webElementGuid>
+      <webElementGuid>d125ac8e-e535-46bf-9556-c31fdcdce2e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>e4495535-5b0e-469b-9de5-26f6ec31f950</webElementGuid>
+      <webElementGuid>0154428b-7370-4682-8b4b-ac459717cb7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>0b94e7f8-a208-4d76-8185-2fc030c38eaf</webElementGuid>
+      <webElementGuid>d425f50d-18c3-4024-a5cc-25f2df7b83d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>65a79b29-dcc2-446d-91bc-b13639f35bf6</webElementGuid>
+      <webElementGuid>ce275903-c297-4656-9de0-eec6808fd827</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>viewBox</name>
       <type>Main</type>
-      <value>0 0 352 512</value>
-      <webElementGuid>c7461403-44fa-4a14-bee1-ce2df745fff9</webElementGuid>
+      <value>0 0 640 512</value>
+      <webElementGuid>d55b9469-1f55-4e56-995c-1d94ebe6aa29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>height</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>cfb75f1d-1c45-4c48-8093-a65d3a187104</webElementGuid>
+      <webElementGuid>54e964e7-a4ce-4d7b-bdbe-f1bc30600d54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>width</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>5f6fce11-f07a-4ee2-97b8-3aa7043ae685</webElementGuid>
+      <webElementGuid>82114c4d-84c3-4efa-a79d-7e3207294abf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,38 +85,46 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>2847ec7a-0957-433f-82a0-5c71c82ddb7a</webElementGuid>
+      <webElementGuid>ec2b1750-e08f-4d33-8e8a-cae33e1eec44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-30&quot;]/div[@class=&quot;bg-white rounded-[4px] overflow-hidden shadow-lg w-full mx-4 max-w-lg border border-gray-300&quot;]/div[@class=&quot;flex justify-between items-center sticky top-0 bg-white p-4 z-20 shadow-sm border-b border-gray-200 rounded-t-[4px]&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;text-gray-600 hover:text-gray-800 transition-colors p-2 rounded-full hover:bg-gray-100 bg-gray-50 md:bg-transparent&quot;]/svg[1]</value>
-      <webElementGuid>824f1289-a1f3-4c4c-9c6b-2e1a6ddcd723</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 mb-12 md:mb-2&quot;]/div[@class=&quot;mb-4 flex justify-between items-center text-primary flex-wrap gap-4&quot;]/div[@class=&quot;flex flex-row items-start md:items-center gap-4 flex-wrap&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/button[@class=&quot;bg-primary text-white p-1 rounded-md flex items-center justify-center&quot;]/svg[1]</value>
+      <webElementGuid>a7e3428a-34d5-42d6-843a-ef9280e26daa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>4e9affdd-a0fd-400c-a478-c1a49f3e4ed3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>1baeeea9-f3cc-4d9f-812f-6f1eb308602b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversation History'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>458bab1a-4883-4350-a262-e040a5253b50</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status:'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8c72bf78-79eb-4bfb-9559-801d00f16fe4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>532afd68-3b2d-4174-bc73-174b1d6853c7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='मराठी'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>055c743b-3c88-4e0a-9350-72950036e0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4acf97f1-6be9-4067-8de0-ebc5f5187def</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

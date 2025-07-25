@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f88795e8-c1fc-49c9-af02-7953c5c27bfc</webElementGuid>
+      <webElementGuid>6a26827a-bcaa-47f4-915b-06d61b7fafb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-3 py-2 text-sm font-medium text-white bg-primary rounded-md hover:bg-primary-dark focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary flex items-center</value>
-      <webElementGuid>84f765ea-0417-4b75-ab48-a8ed881cb7c7</webElementGuid>
+      <webElementGuid>5cffb0d2-1296-456b-b920-421d4ea62b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Apply Filters</value>
-      <webElementGuid>11eb4fff-1251-44ae-8547-2118cfe0fee1</webElementGuid>
+      <webElementGuid>de2ca528-81f7-40f0-a796-9ca777c220d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 max-w-full overflow-x-auto&quot;]/div[@class=&quot;bg-white rounded-lg shadow-sm border border-gray-200 mb-6 p-4&quot;]/div[@class=&quot;flex flex-wrap items-end justify-between gap-4&quot;]/div[@class=&quot;flex items-end gap-2&quot;]/button[@class=&quot;px-3 py-2 text-sm font-medium text-white bg-primary rounded-md hover:bg-primary-dark focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-primary flex items-center&quot;]</value>
-      <webElementGuid>7670f2fe-07ec-41af-9378-81f173c6dbf1</webElementGuid>
+      <webElementGuid>f27fe586-44a6-4c00-abfb-9e19fa85067d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div[2]/button[2]</value>
-      <webElementGuid>0a0d1e26-5ea0-4c8f-a213-e001f86b83e4</webElementGuid>
+      <webElementGuid>8944a165-8099-402e-93a4-d7db9121c093</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::button[1]</value>
-      <webElementGuid>6947df3f-4330-4ab7-90a5-a2c244e1a1cc</webElementGuid>
+      <webElementGuid>21b71525-0630-45e6-806a-bd754b52714f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Village'])[1]/following::button[2]</value>
+      <webElementGuid>1a4bb31c-10cb-43c9-a761-35b88139c4e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export CSV'])[1]/preceding::button[1]</value>
+      <webElementGuid>7634e95c-688c-4030-8318-cd0330def45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply Filters']/parent::*</value>
+      <webElementGuid>ace20c32-f344-4b05-a535-4f6ea1f1b689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>cc36ad07-8c0d-4e78-bc21-3ed46e6495ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Apply Filters' or . = ' Apply Filters')]</value>
+      <webElementGuid>2ff084a5-4070-4f8e-a423-1f4f892b12dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,37 +118,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aljapur'])[1]/following::button[2]</value>
       <webElementGuid>3fe45ce2-7935-49df-ae2d-297297c3a8b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export CSV'])[1]/preceding::button[1]</value>
-      <webElementGuid>f2f5603f-ce0c-4272-8651-96ee2b3f3f3a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Apply Filters']/parent::*</value>
-      <webElementGuid>9e1012ff-c338-486b-a2dd-226f423d38ca</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>041a6e64-a94c-4eaf-8ed0-234d20433c04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = ' Apply Filters' or . = ' Apply Filters')]</value>
-      <webElementGuid>98f4286e-ddb3-4ce5-ba89-a16fa7adf9d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

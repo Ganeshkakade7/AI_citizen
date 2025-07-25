@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2295da98-f4ca-4726-8d22-9bf1fd79c7de</webElementGuid>
+      <webElementGuid>525fbacb-b3b4-40b3-a54c-0c0d11fba0a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center space-x-1 py-2 px-3 border border-red-200 hover:border-red-300 text-red-600 hover:bg-red-50 rounded-md transition-colors text-sm font-medium</value>
-      <webElementGuid>79c99ba9-e4dc-4fc1-ae4e-3ffb5eb1e4f4</webElementGuid>
+      <webElementGuid>9f33908c-a5d5-4bc7-9214-f1062d02c186</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>6e6cf5e2-93cb-4671-823d-03a6726ac011</webElementGuid>
+      <webElementGuid>934755a0-99a5-4cd4-8f78-002b3f885290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>1c875a41-1964-413b-a737-cf8bf65b6e31</webElementGuid>
+      <webElementGuid>33c0edaa-826d-41c7-9f9c-0fdc38db8c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/nav[@class=&quot;navbar border-b border-gray-700 flex items-center justify-between flex-nowrap h-[60px] px-2 sm:px-4 relative&quot;]/div[@class=&quot;hidden md:flex items-center ml-2 sm:ml-4&quot;]/button[@class=&quot;flex items-center space-x-1 py-2 px-3 border border-red-200 hover:border-red-300 text-red-600 hover:bg-red-50 rounded-md transition-colors text-sm font-medium&quot;]</value>
-      <webElementGuid>f47b2c18-b191-4a72-a897-7147a7c6a63e</webElementGuid>
+      <webElementGuid>121e9eb8-88c5-4fc9-b763-c5d28c781d6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/nav/div[3]/button</value>
-      <webElementGuid>553700b8-2284-4ea4-8585-cfc49720b0ae</webElementGuid>
+      <webElementGuid>4bf0331b-3a63-49ac-b72a-9670679f5986</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Refreshed:'])[1]/following::button[1]</value>
-      <webElementGuid>2a462692-4dd9-4624-a887-b53f9a04a181</webElementGuid>
+      <webElementGuid>ad912d69-f546-43de-ae11-c4314b17fe9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search type'])[1]/following::button[2]</value>
-      <webElementGuid>8a88b88e-89ae-488c-8762-886e81af3696</webElementGuid>
+      <webElementGuid>dfb52d97-f84c-45fa-a817-811636c17be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp Confirmation Report'])[1]/preceding::button[1]</value>
-      <webElementGuid>33fd2fec-4f17-42b2-84d5-2a4c2e0f82ab</webElementGuid>
+      <webElementGuid>8702fd12-0694-4f2c-b3b4-9c587e0657a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>6be2be40-0432-46f8-90eb-ac8e2d5bb932</webElementGuid>
+      <webElementGuid>b519f85a-eceb-4814-a003-8ca332178299</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@title = 'Logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>ad88914f-2e69-442f-9ad9-ccb0b2aade93</webElementGuid>
+      <webElementGuid>fb8f5ddd-ca26-463b-a919-cd35bbb25a07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

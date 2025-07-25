@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Summary_text-gray-600 hovertext-gray_d150f5</name>
    <tag></tag>
-   <elementGuidId>61508e16-ef91-42f9-9d3d-0d03ad6331f0</elementGuidId>
+   <elementGuidId>df450c20-ccf8-41e8-864d-8a969547e8dc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d91a5b6b-222b-4dff-afac-1b1f08bd2754</webElementGuid>
+      <webElementGuid>6fdd7d27-fece-484a-ae94-d36854965713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-gray-600 hover:text-gray-800 transition-colors p-2 rounded-full hover:bg-gray-100 bg-gray-50 md:bg-transparent</value>
-      <webElementGuid>fe88a433-9f1c-4269-8ce1-e1048150055c</webElementGuid>
+      <webElementGuid>28723fc4-7fcd-4b56-9f29-7cb7c198dcba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;fixed top-0 left-0 w-screen h-screen overflow-hidden bg-black bg-opacity-50 flex items-center justify-center z-30&quot;]/div[@class=&quot;bg-white rounded-[4px] overflow-hidden shadow-lg w-full mx-4 max-w-lg border border-gray-300&quot;]/div[@class=&quot;flex justify-between items-center sticky top-0 bg-white p-4 z-20 shadow-sm border-b border-gray-200 rounded-t-[4px]&quot;]/div[@class=&quot;flex flex-row gap-4 items-center&quot;]/button[@class=&quot;text-gray-600 hover:text-gray-800 transition-colors p-2 rounded-full hover:bg-gray-100 bg-gray-50 md:bg-transparent&quot;]</value>
-      <webElementGuid>28024510-fbd0-4d3a-8710-1b4c3aa175f1</webElementGuid>
+      <webElementGuid>8ad4ab97-ee92-4b9b-b266-29a9973aef39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div[2]/div/div/div/button[2]</value>
-      <webElementGuid>4702a852-3673-4cfc-a78b-e01d15953c5c</webElementGuid>
+      <webElementGuid>f7e2620a-45d1-4e47-8bb7-54f19454ece4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::button[1]</value>
-      <webElementGuid>1d289b6a-451e-47a6-bbcc-755ff656ebbd</webElementGuid>
+      <webElementGuid>748b7115-48fd-448d-9611-8de1d0476b22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversation History'])[1]/following::button[2]</value>
-      <webElementGuid>f558aa30-4853-41f2-8211-0833d8cbab8d</webElementGuid>
+      <webElementGuid>7a0a858f-3d73-41d5-8512-15c6b5286316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the audio element.'])[1]/preceding::button[1]</value>
-      <webElementGuid>6cad8a7e-e6b9-4196-9a65-9bdaa957b2f0</webElementGuid>
+      <webElementGuid>c309bf6d-9c43-44ff-b2f8-7a7d568576cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div/button[2]</value>
-      <webElementGuid>372d1bfe-4890-4db3-8038-a04865e8f5f4</webElementGuid>
+      <webElementGuid>94adb621-a837-423b-b638-4989432e7bb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

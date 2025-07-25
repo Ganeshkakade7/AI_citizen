@@ -3,11 +3,11 @@
    <description></description>
    <name>select_AllOpenClosed</name>
    <tag></tag>
-   <elementGuidId>ffcc7698-1efb-47e2-be85-9e3fa96a5597</elementGuidId>
+   <elementGuidId>401e8e6b-c531-49d1-935f-0d8a631dba9d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='status']</value>
+         <value>//div/div/select</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>e81383c3-5c71-4221-9b57-2deb33ec402b</webElementGuid>
+      <webElementGuid>c1bb98f8-4669-4cc2-8d6e-30ee2657904c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>status</value>
-      <webElementGuid>47e81ff7-6992-4624-9c94-7cc055e25318</webElementGuid>
+      <webElementGuid>a0d4c57d-ac4e-4fb4-b546-f361fb687462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border border-gray-600 px-2 md:px-3 py-1 md:py-2 text-sm md:text-base w-[180px] rounded-[5px] truncate</value>
-      <webElementGuid>bd5a119a-496a-4fd5-b066-d068702b7103</webElementGuid>
+      <webElementGuid>52c0348e-e5d0-4b15-8c76-85801d42c524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AllOpenClosed</value>
-      <webElementGuid>63734f39-e652-4dce-8482-972418b463ff</webElementGuid>
+      <webElementGuid>5c6e8c0d-ce28-4ca8-90a7-0c83dee06659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;status&quot;)</value>
-      <webElementGuid>54307081-c05e-413c-8b3f-c0c722fb077e</webElementGuid>
+      <webElementGuid>dc5341e1-d914-49fa-baf6-8cf9a5a77d78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='status']</value>
-      <webElementGuid>795c8f28-4147-4572-894c-28764c0e89e2</webElementGuid>
+      <webElementGuid>b43623c7-c5fd-419a-b3aa-6d5700962553</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/select</value>
-      <webElementGuid>23bc6cb1-d80a-4cc9-8c53-c5a8c7275e0a</webElementGuid>
+      <webElementGuid>8daecd51-c2f9-4220-bab4-b9bfe71f1fd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status:'])[1]/following::select[1]</value>
-      <webElementGuid>3cb39510-ef49-4497-ac3c-7f148e8173b1</webElementGuid>
+      <webElementGuid>f23bcf23-2deb-42a5-b83c-7ec2d8fc23af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Issues Raised'])[1]/following::select[1]</value>
-      <webElementGuid>859c16e9-d1b7-4948-ac70-7af2f966c254</webElementGuid>
+      <webElementGuid>b3986fc3-636d-4ae4-984d-053725ea95cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::select[1]</value>
-      <webElementGuid>35a8c950-67b4-408c-a738-fa2494623093</webElementGuid>
+      <webElementGuid>c8212356-c34f-471c-b5e1-fb7f0f5bac47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='मराठी'])[1]/preceding::select[1]</value>
-      <webElementGuid>6167a934-0a7a-4ff0-b79f-cf0dd6228f70</webElementGuid>
+      <webElementGuid>1a20c249-d7db-42f3-b754-8d6a72c27533</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/select</value>
-      <webElementGuid>9e32190e-605c-43f1-8b0a-ac30fd0ba5db</webElementGuid>
+      <webElementGuid>8952cb1c-fa0d-48a2-8d06-b74423cdccac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'status' and (text() = 'AllOpenClosed' or . = 'AllOpenClosed')]</value>
-      <webElementGuid>0fb85467-4561-4aeb-8870-51f743c6f6b5</webElementGuid>
+      <webElementGuid>269b4def-1f67-4052-b8ae-c6fe2271e38b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

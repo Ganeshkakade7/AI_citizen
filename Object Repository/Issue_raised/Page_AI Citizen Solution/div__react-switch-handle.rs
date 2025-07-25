@@ -3,15 +3,15 @@
    <description></description>
    <name>div__react-switch-handle</name>
    <tag></tag>
-   <elementGuidId>b81f5cc3-93bb-426d-a020-317030272494</elementGuidId>
+   <elementGuidId>5bc4d6b6-ddf7-4372-af17-6c8c9be71cf0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2] </value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.react-switch-handle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>15d3c07d-ff54-4dca-8d7b-91ddd892f674</webElementGuid>
+      <webElementGuid>04ae62bc-fde3-40c8-b929-918cca088857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-switch-handle</value>
-      <webElementGuid>4481f4b5-972d-47c9-a57d-7f9da5f0eb36</webElementGuid>
+      <webElementGuid>b7e7cbbe-02a2-45f1-9c5d-1751d0c7922f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;text-text&quot;]/div[@class=&quot;h-screen flex relative&quot;]/div[@class=&quot;flex flex-col flex-grow overflow-auto&quot;]/div[@class=&quot;flex-grow overflow-y-auto overflow-x-hidden px-4 py-2 relative&quot;]/div[@class=&quot;p-4 mb-12 md:mb-2&quot;]/div[@class=&quot;mb-4 flex justify-between items-center text-primary flex-wrap gap-4&quot;]/div[@class=&quot;flex flex-col md:flex-row items-center gap-2 justify-center md:justify-between&quot;]/div[@class=&quot;flex flex-row items-center&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;react-switch&quot;]/div[@class=&quot;react-switch-handle&quot;]</value>
-      <webElementGuid>7421a72d-e691-4d82-9103-9a26835ed551</webElementGuid>
+      <webElementGuid>bf796f53-5869-4802-b456-5bb4a84cf315</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div/div[2]</value>
-      <webElementGuid>70e49ef2-d169-4163-8947-3083d9cc3224</webElementGuid>
+      <webElementGuid>df0b4e7f-9f39-41b3-88d0-750b228db98c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div[2]</value>
-      <webElementGuid>fce6edb7-d361-4cc9-b440-94819d39f240</webElementGuid>
+      <webElementGuid>41bb950c-1a1d-4d43-a753-0b6fb3053f14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
